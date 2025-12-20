@@ -1,2 +1,0 @@
-# ldstepweblog
-ldstepweblog Eleventy project

@@ -1,0 +1,12 @@
+---
+title: Analytics
+description:
+date: 2025-08-16T11:03:02Z
+tags:
+   - posts
+layout: layouts/post.njk
+---
+
+August 16, 2025
+
+Analytics numbers can be deceiving. They only capture part of your audience, missing readers who follow your site in RSS without ever visiting directly. That means the traffic you see is just the drive-by visitors. Keep that in mind the next time you judge your site's performance by analytics alone.
