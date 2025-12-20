@@ -4,7 +4,7 @@ layout: layouts/page.njk
 
 ## Uses
 
-Updated: January 10, 2025
+Updated: December 20, 2025
 
 ### Desktop: M4 14” Macbook Pro
 
