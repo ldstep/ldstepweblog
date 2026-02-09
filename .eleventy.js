@@ -60,7 +60,7 @@ module.exports = function (eleventyConfig) {
       language: "en",
       title: "ldstephens weblog", // Change this to your site's title
       subtitle: "A weblog by ldstephens.", // Change this
-      base: "https://weblog.ldstephens.net", // Change to your actual domain
+      base: "https://ldstephens.net", // Change to your actual domain
       author: {
         name: "ldstephens", // Change to your name
         email: "", // Optional - add your email if you want
