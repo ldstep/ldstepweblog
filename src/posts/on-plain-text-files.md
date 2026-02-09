@@ -6,6 +6,7 @@ tags:
    - posts
 layout: layouts/post.njk
 ---
+January 31, 2026
 
 I came across [plaintextproject.online](http://plaintextproject.online/) and, after reading a few posts, I was reminded why I keep all my writing, journals, notes, and quotes in a repository of markdown files instead of trapping them in a proprietary database app.
 

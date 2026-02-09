@@ -6,6 +6,7 @@ tags:
    - posts
 layout: layouts/post.njk
 ---
+February 9, 2026
 
 I recently [mentioned](https://ldstephens.net//posts/-my-small-protest-against-apple/) using FSNotes for note-taking and quick capture. However, I experienced an issue where files would randomly disappear from the user interface, only to reappear after restarting the application. I contacted the developer, who suggested I install the latest version (7.1.1) to see if it resolved the problem. I'm currently testing it.
 

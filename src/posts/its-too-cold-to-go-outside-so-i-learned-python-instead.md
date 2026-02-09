@@ -6,6 +6,7 @@ tags:
    - posts
 layout: layouts/post.njk
 ---
+February 7, 2026
 
 On a recent podcast, I heard [Jason Snell(https://en.wikipedia.org/wiki/Jason_Snell_(writer)) mention that he had created a simple Python app to automate a task on his Mac. Inspired by that, and since the weather is to fucking cold to be outside, I decided to explore Python and how I could use it to automate some of my own tasks. I've put together three Python scripts that streamline my daily note-taking and journaling workflow. They are simple, automated, and integrate seamlessly with Alfred. Here's what each one does:
 

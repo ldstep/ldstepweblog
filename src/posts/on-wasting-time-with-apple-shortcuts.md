@@ -6,6 +6,7 @@ tags:
    - posts
 layout: layouts/post.njk
 ---
+February 2, 2026
 
 Today, I spent far too much time fucking with Apple Shortcuts just to do something embarrassingly simple: append the current date and time to a specific Bear note on iPadOS.
 

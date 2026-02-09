@@ -6,6 +6,7 @@ tags:
    - posts
 layout: layouts/post.njk
 ---
+January 22, 2026
 
 While I was laying down to take a nap today (yes I take a nap every afternoon) I started thinking about what a fucking shit show social media is and how in my opinion it is destroying society.
 

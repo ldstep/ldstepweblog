@@ -6,6 +6,7 @@ tags:
    - posts
 layout: layouts/post.njk
 ---
+January 30, 2026
 
 [The Macalope](https://www.macworld.com/article/3043477/apple-is-full-of-it.html)
 

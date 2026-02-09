@@ -6,6 +6,7 @@ tags:
    - posts
 layout: layouts/post.njk
 ---
+February 4, 2026
 
 I'm not trying to escape Apple I'm staging a protest. A small one, sure, but deliberate. The [reasons](https://loren.ldstephens.net/link-post-does-tim-cook-even-care-about-apples-image-anymore/) pile up daily: Apple has quietly transformed from a company that built great tools into one that tightens its grip, nudging users toward subscriptions, lock-in, and manufactured dependency. I still use their products. But what I can do is live more intentionally within the system by:
 
