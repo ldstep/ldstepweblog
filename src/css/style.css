@@ -11,25 +11,35 @@
     --font-size-base: 1em;
     --line-height-base: 1.8;
 
-    /* 🎨 Nord Dark Theme Colors */
-    --background-color: #2e3440; /* Nord Polar Night (darkest) */
-    --heading-color: #a3be8c; /* Nord Snow Storm (brightest) */
-    --text-color: #d8dee9; /* Nord Snow Storm (medium) */
+    /* 🎨 Monochrome Colors (Black on White) */
+    --background-color: #ffffff; /* Pure White Background */
+    --heading-color: #000000; /* Pure Black Headings/Strong */
+    --text-color: #000000; /* Pure Black Text */
 
-    --link-color: #88c0d0; /* Nord Frost (cyan) */
-    --visited-color: #88c0d0; /* Same as link color */
+    --link-color: #000000; /* Black Links */
+    --visited-color: #000000; /* Black Visited Links */
 
-    /* Nord Aurora colors for dates and titles */
-    --date-color: #d08770; /* Nord Aurora (orange) */
-    --title-accent: #b48ead; /* Nord Aurora (green) */
-    --code-background-color: #3b4252; /* Nord Polar Night (lighter) */
-    --code-color: #e5e9f0; /* Nord Snow Storm */
+    --code-background-color: #eeeeee; /* Light Gray for Code Background */
+    --code-color: #000000; /* Black Code Text */
 
-    --blockquote-color: #d8dee9; /* Nord Snow Storm */
-    --blockquote-border: #5e81ac; /* Nord Frost (blue) */
+    --blockquote-color: #000000; /* Black blockquote text */
+    --blockquote-border: #888888; /* Medium Gray border */
 
-    --accent-color: #88c0d0; /* Nord Frost (cyan) */
-    --hr-color: #4c566a; /* Nord Polar Night (border) */
+    --accent-color: #000000; /* Black Accent */
+    --hr-color: #000000; /* Black HR Line */
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --background-color: #01242e;
+        --heading-color: #eee;
+        --text-color: #ddd;
+        --link-color: #8cc2dd;
+        --visited-color: #8b6fcb;
+        --code-background-color: #000;
+        --code-color: #ddd;
+        --blockquote-color: #ccc;
+    }
 }
 
 body {
@@ -86,7 +96,6 @@ time {
     font-family: var(--font-code);
     font-style: normal;
     font-size: 0.9375rem;
-    color: var(--date-color);
 }
 
 main {
@@ -135,7 +144,6 @@ footer {
 
 .title h1 {
     font-size: 1.5em;
-    color: var(--title-accent);
 }
 
 .inline {
@@ -167,7 +175,6 @@ ul.blog-posts li {
 ul.blog-posts li span {
     flex: 0 0 130px;
     font-family: var(--font-code);
-    color: var(--date-color);
 }
 
 ul.blog-posts li a:visited {
@@ -186,13 +193,13 @@ ul.blog-posts li a:visited {
     gap: 10px;
     align-items: flex-start;
     font-family: var(--font-code);
-    color: var(--date-color);
+    color: var(--text-color);
 }
 
 .blog-page span {
     min-width: 100px;
     font-weight: normal;
-    color: var(--date-color);
+    color: var(--text-color);
 }
 
 .blog-page a {
@@ -229,5 +236,5 @@ ul.blog-posts li a:visited {
 }
 
 h1 a {
-    color: var(--title-accent) !important;
+    color: var(--heading-color) !important;
 }
