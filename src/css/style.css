@@ -1,17 +1,17 @@
 :root {
-    /* 📐 Layout */
+    /* Layout */
     --width: 650px;
 
-    /* 💻 System Fonts (Modern, High-Performance) */
+    /* System Fonts (Modern, High-Performance) */
     --font-main: ui-sans-serif, system-ui, sans-serif;
     --font-secondary: ui-sans-serif, system-ui, sans-serif;
     --font-code: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
 
-    /* 📏 Sizing and Spacing */
+    /* Sizing and Spacing */
     --font-size-base: 1em;
     --line-height-base: 1.8;
 
-    /* 🎨 Monochrome Colors (Black on White) */
+    /* Monochrome Colors (Black on White) */
     --background-color: #ffffff; /* Pure White Background */
     --heading-color: #000000; /* Pure Black Headings/Strong */
     --text-color: #000000; /* Pure Black Text */
