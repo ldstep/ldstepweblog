@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+February 16, 2026, at 2:51:35 PM
+
+[MacRumors](https://www.macrumors.com/2026/02/16/apple-may-leave-ipad-pro-without-major-upgrades/): Apple May Leave iPad Pro Without Major Upgrades for Years
+
+> Apple's iPad Pro is likely to be left for years without a major update, according to a reliable leaker.[…] the last major redesign apparently did not significantly stimulate sales growth.
+
+---
+
 January 31, 2026, at 10:48:38 AM
 
 I came across [plaintextproject.online](http://plaintextproject.online) and, after reading a few posts, was reminded why I keep all my writing, journals, notes, and quotes in a repository of markdown files instead of trapping them in a proprietary database app.
