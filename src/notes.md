@@ -2,14 +2,19 @@
 title: Notes
 layout: layouts/base.njk
 permalink: /notes/
-eleventyNavigation:
-   key: "Notes"
-   order: 3
 ---
 
 # Notes
 
 *Notes are shorter random posts, kinda like a microblog. They have [their own RSS feed](https://ldstephens.net/notes-feed.xml).*
+
+---
+
+February 17, 2026, at 9:19:00 AM
+
+Workflow documentation:
+
+I use Drafts for capture, blog ideas, blog posts, and journaling. For notes, daily notes, and quotes, I use FSNotes. When I'm editing text files on my Mac, I use BBEdit or MarkEdit. On my iPhone, I use 1Writer.
 
 ---
 
