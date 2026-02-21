@@ -12,6 +12,13 @@ eleventyNavigation:
 *Notes are shorter random posts, kinda like a microblog. They have [their own RSS feed](https://ldstephens.net/notes-feed.xml).*
 
 ---
+February 21, 2026, at 4:25:59 PM
+
+[Cory Doctorow](https://pluralistic.net/2026/02/19/now-we-are-six/#stock-buyback)
+
+> Refusing to use a technology because the people who developed it were indefensible creeps is a self-owning dead-end. You know what's better than refusing to use a technology because you hate its creators? Seizing that technology and making it your own. Don't like the fact that a convicted monopolist has a death-grip on networking? Steal its protocol, release a free software version of it, and leave it in your dust:[…] Refusing to run an LLM on your laptop because you don't like Sam Altman is as foolish as refusing to get monoclonal antibodies because James Watson was a racist nutjob:
+
+---
 
 January 31, 2026, at 10:48:38 AM
 

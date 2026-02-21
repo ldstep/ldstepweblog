@@ -20,16 +20,18 @@ eleventyExcludeFromCollections: true
         </image>
 
         <item>
-            <title>January 31, 2026, at 10:48:38 AM</title>
+            <title>February 21, 2026, at 4:25:59 PM</title>
             <link>https://ldstephens.net/notes/</link>
             <description>
             <![CDATA[
-            <p>I came across <a href="http://plaintextproject.online">plaintextproject.online</a> and, after reading a few posts, was reminded why I keep all my writing, journals, notes, and quotes in a repository of markdown files instead of trapping them in a proprietary database app.</p>
+            <p><a href="https://pluralistic.net/2026/02/19/now-we-are-six/#stock-buyback">Cory Doctorow</a></p>
 
-            <p><a href="https://ellanew.com/2025/01/19/ptpl-191-answer-8-questions-why-plain-text">Source</a> </p>
+            <blockquote>
+            <p>Refusing to use a technology because the people who developed it were indefensible creeps is a self-owning dead-end. You know what&#8217;s better than refusing to use a technology because you hate its creators? Seizing that technology and making it your own. Don&#8217;t like the fact that a convicted monopolist has a death-grip on networking? Steal its protocol, release a free software version of it, and leave it in your dust:[…] Refusing to run an LLM on your laptop because you don&#8217;t like Sam Altman is as foolish as refusing to get monoclonal antibodies because James Watson was a racist nutjob:</p>
+            </blockquote>
             ]]>
              </description>
-            <pubDate>Sat, 31 Jan 2026 10:52:33 -0500</pubDate>
+            <pubDate>Sat, 21 Feb 2026 16:29:34 -0500</pubDate>
         </item>
     </channel>
 </rss>
