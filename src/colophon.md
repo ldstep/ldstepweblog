@@ -10,4 +10,4 @@ The domain is registered through [Hover](https://hover.com/).
 
 When adding new posts, changing the design, or adding new features, that is done in [VS Code](https://code.visualstudio.com).
 
-New posts are written in Markdown in [Drafts](https://getdrafts.com) and added to a new post in VS Code.
+New posts are written in Markdown in [iA Writer](https://ia.net/writer) and added to a new post in VS Code.
