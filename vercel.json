@@ -11,13 +11,8 @@
       "permanent": true
     },
     {
-      "source": "/blog/life-before-social-media/",
-      "destination": "https://ldstephens.net/posts/life-before-social-media/",
-      "permanent": true
-    },
-    {
       "source": "/blog/:path*",
-      "destination": "https://ldstephens.net/posts/:path*/",
+      "destination": "/posts/:path*",
       "permanent": true
     }
   ]
