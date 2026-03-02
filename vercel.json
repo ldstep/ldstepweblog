@@ -12,12 +12,12 @@
     },
     {
       "source": "/blog/life-before-social-media/",
-      "destination": "/posts/life-before-social-media/",
+      "destination": "https://ldstephens.net/posts/life-before-social-media/",
       "permanent": true
     },
     {
       "source": "/blog/:path*",
-      "destination": "/posts/:path*",
+      "destination": "https://ldstephens.net/posts/:path*/",
       "permanent": true
     }
   ]
