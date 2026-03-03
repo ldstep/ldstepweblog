@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+March 3, 2026, at 2:51:36 PM
+
+I'm adding notes back to my site. This is a test post to make sure that the RSS feed is working?
+
+---
+
 January 31, 2026, at 10:48:38 AM
 
 I came across [plaintextproject.online](http://plaintextproject.online) and, after reading a few posts, was reminded why I keep all my writing, journals, notes, and quotes in a repository of markdown files instead of trapping them in a proprietary database app.
