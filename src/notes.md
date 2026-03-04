@@ -13,6 +13,16 @@ eleventyNavigation:
 
 ---
 
+March 4, 2026, at 10:09:46 AM
+
+M5 MacBook Pros: Fine Computers With an Asterisk
+
+> That said, there’s an asterisk here. The M6 MacBook Pro is expected before the end of this year, and it’s rumored to be a substantial redesign with OLED displays, a touchscreen, the notch replaced by a Dynamic Island, and chips built on TSMC’s 2nm process. If even half of those rumors pan out, it will be the biggest MacBook Pro refresh in years. If you’re thinking about buying an M5, go into it with open eyes.
+
+[MacSparky](https://www.macsparky.com/blog/2026/03/m5-macbook-pros-fine-computers-with-an-asterisk/)
+
+---
+
 March 3, 2026, at 2:51:36 PM
 
 I'm adding notes back to my site. This is a test post to make sure that the RSS feed is working?
