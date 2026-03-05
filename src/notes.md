@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+March 5, 2026, at 5:06:39 PM
+
+[I Write Like](https://iwl.me/) from [Coding Robots](https://www.codingrobots.com/) is a free Mac web app that packs a surprising amount into one place — Markdown preview, style analysis, readability scoring, AI editing. It's not how I write, but if you're looking for a no-install, just-open-and-go Markdown editor for occasional writing, it's a solid option.
+
+---
+
 March 4, 2026, at 10:09:46 AM
 
 M5 MacBook Pros: Fine Computers With an Asterisk
