@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+March 9, 2026, at 9:47:20 AM
+
+I'm experimenting with Bear as a replacement for Drafts — for blog posts, notes, journal entries, and archive storage.
+
+One thing I like: if I ever need to recover a specific note, I don't have to overwrite my current data. I can restore from a Bear backup by renaming the `.bear2bk` file to `.zip`, unzipping it, and pulling out individual notes as `.textbundle` files. Plain text, accessible, no drama.
+
+---
+
 March 5, 2026, at 5:06:39 PM
 
 [I Write Like](https://iwl.me/) from [Coding Robots](https://www.codingrobots.com/) is a free Mac web app that packs a surprising amount into one place — Markdown preview, style analysis, readability scoring, AI editing. It's not how I write, but if you're looking for a no-install, just-open-and-go Markdown editor for occasional writing, it's a solid option.

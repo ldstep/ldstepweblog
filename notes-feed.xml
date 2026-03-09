@@ -16,15 +16,17 @@
         </image>
 
         <item>
-            <title>March 5, 2026, at 5:06:39 PM</title>
+            <title>March 9, 2026, at 9:47:20 AM</title>
             <link>https://ldstephens.net/notes/</link>
-            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-03-05T17:08:43</guid>
+            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-03-09T09:49:25</guid>
             <description>
             <![CDATA[
-            <p><a href="https://iwl.me/">I Write Like</a> from <a href="https://www.codingrobots.com/">Coding Robots</a> is a free Mac web app that packs a surprising amount into one place — Markdown preview, style analysis, readability scoring, AI editing. It&#8217;s not how I write, but if you&#8217;re looking for a no-install, just-open-and-go Markdown editor for occasional writing, it&#8217;s a solid option.</p>
+            <p>I'm experimenting with Bear as a replacement for Drafts — for blog posts, notes, journal entries, and archive storage.</p>
+
+            <p>One thing I like: if I ever need to recover a specific note, I don't have to overwrite my current data. I can restore from a Bear backup by renaming the <code>.bear2bk</code> file to <code>.zip</code>, unzipping it, and pulling out individual notes as <code>.textbundle</code> files. Plain text, accessible, no drama.</p>    
             ]]>
              </description>
-            <pubDate>Thu, 05 Mar 2026 17:09:20 -0500</pubDate>
+            <pubDate>Mon, 09 Mar 2026 09:51:26 -0500</pubDate>
         </item>
     </channel>
 </rss>
