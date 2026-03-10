@@ -16,17 +16,25 @@
         </image>
 
         <item>
-            <title>March 9, 2026, at 9:47:20 AM</title>
+            <title>March 10, 2026, at 2:34:49 PM</title>
             <link>https://ldstephens.net/notes/</link>
-            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-03-09T09:49:25</guid>
+            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-03-10T14:38:48</guid>
             <description>
             <![CDATA[
-            <p>I'm experimenting with Bear as a replacement for Drafts — for blog posts, notes, journal entries, and archive storage.</p>
+            <blockquote>
+            <p>How Anyone Can Score Apple&#8217;s Educational Discount</p>
 
-            <p>One thing I like: if I ever need to recover a specific note, I don't have to overwrite my current data. I can restore from a Bear backup by renaming the <code>.bear2bk</code> file to <code>.zip</code>, unzipping it, and pulling out individual notes as <code>.textbundle</code> files. Plain text, accessible, no drama.</p>    
+            <p>According to Apple, the Education Store only applies to &#8220;current and newly accepted college students and their parents, as well as faculty, staff, and homeschool teachers of all grade levels.&#8221; But this is the (open) secret of Apple&#8217;s Education Store: While the discounts are supposed to be for students, educators, and parents, anyone can shop the Education Store and take advantage of the same savings. There is no proof required when accessing the Education Store online in the U.S.—it&#8217;s just a different section of the Apple Store website. Once you&#8217;re in, you&#8217;re in, and you can get the same discounts as anyone Apple would intend the discount for.</p>
+
+            <p>That includes, of course, the MacBook Neo, which starts at just $499 on the Education Store (for the 256GB model).</p>
+            </blockquote>
+
+            <p><a href="https://lifehacker.com/tech/apple-education-discount-explained">Lifehacker</a></p>
+
+            <p>I tested this and it works. I&#8217;m not sure how ethical it is but if you want to give it a shot here&#8217;s the <a href="https://www.apple.com/us-edu/store">link to the Education Store</a>. </p>   
             ]]>
              </description>
-            <pubDate>Mon, 09 Mar 2026 09:51:26 -0500</pubDate>
+            <pubDate>Tue, 10 Mar 2026 14:40:19 -0500</pubDate>
         </item>
     </channel>
 </rss>

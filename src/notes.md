@@ -13,6 +13,20 @@ eleventyNavigation:
 
 ---
 
+March 10, 2026, at 2:34:49 PM
+
+> How Anyone Can Score Apple's Educational Discount 
+> 
+> According to Apple, the Education Store only applies to "current and newly accepted college students and their parents, as well as faculty, staff, and homeschool teachers of all grade levels." But this is the (open) secret of Apple's Education Store: While the discounts are supposed to be for students, educators, and parents, anyone can shop the Education Store and take advantage of the same savings. There is no proof required when accessing the Education Store online in the U.S.—it's just a different section of the Apple Store website. Once you're in, you're in, and you can get the same discounts as anyone Apple would intend the discount for.
+> 
+> That includes, of course, the MacBook Neo, which starts at just $499 on the Education Store (for the 256GB model).
+
+[Lifehacker](https://lifehacker.com/tech/apple-education-discount-explained)
+
+I tested this and it works. I'm not sure how ethical it is but if you want to give it a shot here's the [link to the Education Store](https://www.apple.com/us-edu/store). 
+
+---
+
 March 9, 2026, at 9:47:20 AM
 
 I'm experimenting with Bear as a replacement for Drafts — for blog posts, notes, journal entries, and archive storage.
