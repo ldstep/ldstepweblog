@@ -23,7 +23,7 @@ March 10, 2026, at 2:34:49 PM
 
 [Lifehacker](https://lifehacker.com/tech/apple-education-discount-explained)
 
-I tested this and it works. I'm not sure how ethical it is but if you want to give it a shot here's the [link to the Education Store](https://www.apple.com/us-edu/store). 
+I tested this and it works. I'm not sure how ethical it is, but if you want to give it a shot, here's the [link to the Education Store](https://www.apple.com/us-edu/store). 
 
 ---
 
