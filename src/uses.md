@@ -4,7 +4,7 @@ layout: layouts/page.njk
 
 ## Uses
 
-Updated: February 26, 2026
+Updated: March 13, 2026
 
 **Desktop: M4 14” Macbook Pro**
 
@@ -19,22 +19,22 @@ _Apps:_
 *   Mail Server: [Fastmail](https://www.fastmail.com/?STKI=14726057)
 *   Mail App: Mail
 *   Calendar: Fantastical
-*   Notes: Apple Notes / iA Writer
+*   Notes: Apple Notes / Devonthink
 *   To-Do: Things
 *   Cloud File Storage: iCloud
-*   Browser: Safari / Firefox
-*   Text Editor: iA Writer
+*   Browser: Firefox
+*   Text Editor: Drafts / BBEdit
 *   Code: GitHub
-*   Code Editor: VS Code
-*   Journal: iA Writer / Day One
+*   Code Editor: Zed
+*   Journal: Drafts / Day One
 *   Launcher: Alfred
 *   RSS Service: Feedbin
 *   RSS App: NetNewsWire
-*   Bookmarks: Goodlinks
+*   Bookmarks: Alfred
 *   Read It Later: Goodlinks
 *   Password Manager: Bitwarden
 *   VPN: TunnelBear
-*   Utilities: Hazel, Keyboard Maestro, PopClip, Yoink, DropZone, App Cleaner, Witch, ScreenFloat, HoudahSpot, Devonthink
+*   Utilities: Hazel, Keyboard Maestro, PopClip, Yoink, DropZone, App Cleaner, Witch, ScreenFloat, HoudahSpot, Devonthink, Moom
 
 **Mobile: iPhone 15 Pro Max and M2 11” iPad Air**
 
@@ -49,15 +49,15 @@ _Apps:_
 *   Mail App: Mail
 *   Messages: Messages
 *   Calendar: Fantastical
-*   Notes: Apple Notes / iA Writer
+*   Notes: Apple Notes
 *   To-Do: Things
 *   Browser: Safari
-*   Text: iA Writer
+*   Text: Drafts / 1Writer
 *   RSS Service: Feedbin
 *   RSS App: NetNewsWire
 *   Bookmarks: Goodlinks
 *   Read It Later: Goodlinks
-*   Journal: iA Writer/ Day One
+*   Journal: Drafts / Day One
 *   Password Manager: Bitwarden
 *   Weather: Carrot Weather
 *   Health and Fitness: Fitness, FoodNom
