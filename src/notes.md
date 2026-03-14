@@ -13,6 +13,16 @@ eleventyNavigation:
 
 ---
 
+March 14, 2026, at 9:41:39 AM
+
+I've been using Firefox instead of Safari lately. A few reasons:
+
+It clears cookies and history on close and you can set exceptions for sites you want to stay logged into. Every site I use works in Firefox without issues. And the Bitwarden extension is solid.
+
+That's it. No regrets.
+
+---
+
 March 10, 2026, at 2:34:49 PM
 
 > How Anyone Can Score Apple's Educational Discount 
