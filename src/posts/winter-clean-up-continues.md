@@ -12,3 +12,5 @@ March 21, 2026
 I've been busy [working outside](https://ldstephens.net/posts/cleaning-up-after-winter/) for the past three days. A friend and I started by cutting up the remaining log stack and splitting about half of it for firewood. Then Thursday and Friday we cleared the cart path through the woods, part of our property, that had been blocked by fallen trees and broken branches.
 
 Spring is settling in. The grass is greening up and leaves are starting to bud and warmer days are ahead.
+
+![](https://cdn.statically.io/gh/ldstep/my-blog-images/main/IMG_0211.jpeg?width=800&format=webp)
