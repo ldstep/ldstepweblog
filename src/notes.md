@@ -24,9 +24,11 @@ Keep images out of the main site repo. Store them in a separate public GitHub re
 - Upload images as `.jpeg` (not `.heic` — browsers can't display HEIC natively)
 
 **URL Template**
+
 https://cdn.statically.io/img/gh/USER/REPO/BRANCH/FILENAME?width=800&format=webp
 
 **Usage**
+
 Standard Markdown — no 11ty config changes needed
 
 ---
