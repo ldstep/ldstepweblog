@@ -16,21 +16,32 @@
         </image>
 
         <item>
-            <title>March 14, 2026, at 9:41:39 AM</title>
+            <title>March 22, 2026, at 10:30:01 AM</title>
             <link>https://ldstephens.net/notes/</link>
             <guid
                 isPermaLink="false"
-            >https://ldstephens.net/notes/#2026-03-14T09:44:28</guid>
+            >https://ldstephens.net/notes/#2026-03-22T10:33:03</guid>
             <description>
             <![CDATA[
-            <p>I&#8217;ve been using Firefox instead of Safari lately. A few reasons:</p>
+            <p>Images for 11ty blog posts via GitHub + Statically CDN</p>
 
-            <p>It clears cookies and history on close &#8211; and you can set exceptions for sites you want to stay logged into. Every site I use works in Firefox without issues. And the Bitwarden extension is solid.</p>
+            <p>Keep images out of the main site repo. Store them in a separate public GitHub repo and serve them through Statically, which resizes and converts on the fly.</p>
 
-            <p>That&#8217;s it. No regrets.</p>
+            <p><strong>Setup</strong></p>
+
+            <ul>
+            <li>Created a public GitHub repo for images</li>
+            <li>Upload images as <code>.jpeg</code> (not <code>.heic</code> — browsers can&#8217;t display HEIC natively)</li>
+            </ul>
+
+            <p><strong>URL Template</strong>
+            https://cdn.statically.io/img/gh/USER/REPO/BRANCH/FILENAME?width=800&amp;format=webp</p>
+
+            <p><strong>Usage</strong>
+            Standard Markdown — no 11ty config changes needed</p>
             ]]>
              </description>
-            <pubDate>Sat, 14 Mar 2026 09:45:51 -0500</pubDate>
+            <pubDate>Sun, 22 Mar 2026 10:34:04 -0500</pubDate>
         </item>
     </channel>
 </rss>

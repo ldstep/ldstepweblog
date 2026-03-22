@@ -13,6 +13,24 @@ eleventyNavigation:
 
 ---
 
+March 22, 2026, at 10:30:01 AM
+
+Images for 11ty blog posts via GitHub + Statically CDN
+
+Keep images out of the main site repo. Store them in a separate public GitHub repo and serve them through Statically, which resizes and converts on the fly.
+
+**Setup**
+- Created a public GitHub repo for images 
+- Upload images as `.jpeg` (not `.heic` — browsers can't display HEIC natively)
+
+**URL Template**
+https://cdn.statically.io/img/gh/USER/REPO/BRANCH/FILENAME?width=800&format=webp
+
+**Usage**
+Standard Markdown — no 11ty config changes needed
+
+---
+
 March 14, 2026, at 9:41:39 AM
 
 I've been using Firefox instead of Safari lately. A few reasons:
