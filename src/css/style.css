@@ -16,8 +16,8 @@
     --heading-color: #000000; /* Pure Black Headings/Strong */
     --text-color: #000000; /* Pure Black Text */
 
-    --link-color: #000000; /* Black Links */
-    --visited-color: #000000; /* Black Visited Links */
+    --link-color: #3273dc; /* Blue Links */
+    --visited-color: #3273dc; /* Blue Visited Links */
 
     --code-background-color: #eeeeee; /* Light Gray for Code Background */
     --code-color: #000000; /* Black Code Text */
@@ -70,11 +70,11 @@ h6 {
 a {
     color: var(--link-color);
     cursor: pointer;
-    text-decoration: underline; /* All links are underlined */
+    text-decoration: none; /* Links no underline */
 }
 
 a:hover {
-    text-decoration: none; /* Removes underline on hover for a cleaner effect */
+    text-decoration: underline; /* Underline on hover */
 }
 
 nav a {
