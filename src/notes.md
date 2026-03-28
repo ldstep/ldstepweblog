@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+March 28, 2026, at 2:35:34 PM
+
+> Vibe coding may not take a professional developer from 10 to 100, but it takes a lot of regular folks from 0 to 1 or more. That's huge and amazing.
+
+[Jack Baty](https://copingmechanism.com/where-are-all-the-ai-apps-everywhere/)
+
+---
+
 March 28, 2026, at 11:22:03 AM
 
 I love [Drafts](https://getdrafts.com). It's been my staple for capture and writing for years, and I have it automated exactly the way I want it. Familiar like an old friend. I keep experimenting with other apps, but I always come back to Drafts. I'm done experimenting.
