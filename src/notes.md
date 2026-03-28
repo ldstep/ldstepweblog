@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+March 28, 2026, at 11:22:03 AM
+
+I love [Drafts](https://getdrafts.com). It's been my staple for capture and writing for years, and I have it automated exactly the way I want it. Familiar like an old friend. I keep experimenting with other apps, but I always come back to Drafts. I'm done experimenting.
+
+---
+
 March 22, 2026, at 10:30:01 AM
 
 Images for 11ty blog posts via GitHub + Statically CDN
