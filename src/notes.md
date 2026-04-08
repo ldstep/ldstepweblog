@@ -21,7 +21,7 @@ This caught my attention this morning:
 
 > Almost no one visits my blogs directly. 90% of visits are via RSS. This means that what the pages look like doesn't matter to anyone but me. I wish it didn't matter to me. Things sure would be simpler.
 
-Same with my blog, 90% of visits are via RSS.
+Same with this blog, 90% of visits are via RSS.
 
 ---
 
