@@ -13,6 +13,18 @@ eleventyNavigation:
 
 ---
 
+April 8, 2026, at 9:32:15 AM
+
+This caught my attention this morning:
+
+[Jack Baty](https://copingmechanism.com/wednesday-april-8-2026/)
+
+> Almost no one visits my blogs directly. 90% of visits are via RSS. This means that what the pages look like doesn't matter to anyone but me. I wish it didn't matter to me. Things sure would be simpler.
+
+Same with my blog, 90% of visits are via RSS.
+
+---
+
 March 28, 2026, at 2:35:34 PM
 
 > Vibe coding may not take a professional developer from 10 to 100, but it takes a lot of regular folks from 0 to 1 or more. That's huge and amazing.
