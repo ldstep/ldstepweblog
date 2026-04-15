@@ -23,7 +23,7 @@ _Apps:_
 *   To-Do: Things
 *   Cloud File Storage: iCloud
 *   Browser: Firefox
-*   Text Editor: MarkEdit / BBEdit
+*   Text Editor: Drafts / BBEdit
 *   Code: GitHub
 *   Code Editor: Zed
 *   Journal: Devonthink / Day One
@@ -52,12 +52,12 @@ _Apps:_
 *   Notes: 1Writer / Apple Notes
 *   To-Do: Things
 *   Browser: Safari
-*   Text: 1Writer / Drafts
+*   Text: Drafts
 *   RSS Service: Feedbin
 *   RSS App: NetNewsWire
 *   Bookmarks: Goodlinks
 *   Read It Later: Goodlinks
-*   Journal: 1Writer / Day One
+*   Journal: Drafts / Day One
 *   Password Manager: Bitwarden
 *   Weather: Carrot Weather
 *   Health and Fitness: Fitness, FoodNom
