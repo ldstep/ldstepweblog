@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+April 17, 2026, at 5:10:24 PM
+
+I'm experimenting with Unread using the free Unread Cloud as my RSS reader in place of NetNewsWire, hoping that Unread Cloud will replace Feedbin, saving me $50 a year. We'll see?
+
+---
+
 April 8, 2026, at 9:32:15 AM
 
 This caught my attention this morning:
