@@ -13,6 +13,18 @@ eleventyNavigation:
 
 ---
 
+April 18, 2026, at 11:38:21 AM
+
+I’m feeling a little guilty this morning for neglecting my iPad — though I do use it almost every day, mostly as a TV for about an hour. I don’t do any real work on it. That happens on my MacBook Pro.
+
+So this morning I decided to do my writing in Drafts on my iPad. That’s what I’m doing right now.
+
+The writing experience on the 11” iPad with the Magic Keyboard is genuinely enjoyable. I’m using Full Screen App mode. Windowed Apps mode feels clunky on an 11” screen, and I prefer working in one app at a time anyway. That said,  I do miss Slide Over and Split View and hope Apple brings them back at some point.
+
+If I didn’t have an 11ty blog that requires macOS, I could probably live on the iPad. But I never seem to stick with it.
+
+---
+
 April 17, 2026, at 5:10:24 PM
 
 I'm experimenting with Unread using the free Unread Cloud as my RSS reader in place of NetNewsWire, hoping that Unread Cloud will replace Feedbin, saving me $50 a year. We'll see?
