@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+April 22, 2026, at 10:17:28 AM
+
+I'm linux curious. I think the curiosity is inspired by seeing a number of macOS users migrating to linux. Some like it some don't. I used Linux Mint years ago and as I recall I liked it. So for me it be something to learn or more appropriately re-learn. 
+
+What's holding me back is a computer. The way I understand it, Linux isn't compatible with silicon Macs so I would need to purchase a new or used intel computer. And since this would be nothing more than a way for an old retired guy to kill some time I really don't want to spend the money for a new or used computer.
+
+---
+
 April 18, 2026, at 11:38:21 AM
 
 I’m feeling a little guilty this morning for neglecting my iPad — though I do use it almost every day, mostly as a TV for about an hour. I don’t do any real work on it. That happens on my MacBook Pro.
