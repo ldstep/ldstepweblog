@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+April 27, 2026, at 2:30:34 PM
+
+This afternoon I’m thinking, again, about simplifying my digital life. Specifically: whether I could get by with just my iPhone and iPad.
+
+The MacBook Pro is endless. Options, tinkering, decisions. The iPad isn’t. That’s the appeal.
+
+---
+
 April 22, 2026, at 10:17:28 AM
 
 I'm linux curious. I think the curiosity is inspired by seeing a number of macOS users migrating to linux. Some like it some don't. I used Linux Mint years ago and as I recall I liked it. So for me it be something to learn or more appropriately re-learn. 
