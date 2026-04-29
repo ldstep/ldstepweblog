@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+April 29, 2026, at 4:25:58 PM
+
+This morning I'm experimenting with [Bear](https://bear.app/) again. I love the UI and the way everything is organized in the sidebar with tags. I'm considering it as a replacement for Drafts. My issue with Drafts is how cluttered the UI feels, particularly on the Mac. On top of that, I find the iOS 26 version less efficient than the old one — everything requires more taps. 
+
+With the macOS 26 Apple Notes app using markdown export, I was able to export all the notes and import them to Bear Notes.
+
+---
+
 April 27, 2026, at 2:30:34 PM
 
 This afternoon I’m thinking, again, about simplifying my digital life. Specifically: whether I could get by with just my iPhone and iPad.
