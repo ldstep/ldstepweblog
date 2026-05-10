@@ -13,6 +13,20 @@ eleventyNavigation:
 
 ---
 
+May 10, 2026, at 3:45:02 PM
+
+Meta Is Dying. It’s About Time.
+
+> But they are, as the kids say, peak cringe. Many teenagers wouldn’t be caught dead with an AOL account, a Yahoo email address — or a Facebook profile.[…] The more users quit, and the more corroded Meta’s apps grow, the faster we can all log off and close this chapter of the social media revolution forever.
+
+👏👏👏
+
+[Julia Angwin](https://www.nytimes.com/2026/05/08/opinion/meta-facebook-zuckerberg.html?unlocked_article_code=1.hVA.mJJm.ImZ2WhQ3Fmvw&smid=url-share)
+
+I can proudly say that I've never had a Facebook, Instagram, or WhatsApp account. 
+
+---
+
 May 1, 2026, at 10:47:52 AM
 
 My Bear Notes experiment is moving along nicely, though I was tempted to pull Drafts back into the mix this morning. The only thing still rattling around in my head is the app-vs-database question whether I want my notes living in a proprietary store rather than plain markdown files. I think I can get past it. Bear's export options are solid if I ever want out.
