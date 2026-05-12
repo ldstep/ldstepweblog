@@ -49,7 +49,7 @@ _Apps:_
 *   Mail App: Mail
 *   Messages: Messages
 *   Calendar: Fantastical
-*   Notes: iA Writer / Apple Notes
+*   Notes: 1Writer / Apple Notes
 *   To-Do: Things
 *   Browser: Safari
 *   Text: Drafts / 1Writer
