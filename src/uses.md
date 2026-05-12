@@ -4,7 +4,7 @@ layout: layouts/page.njk
 
 ## Uses
 
-Updated: May 10, 2026, at 10:03:55 AM
+Updated: May 12, 2026, at 10:32:39 AM
 
 **Desktop: M4 14” Macbook Pro**
 
@@ -19,14 +19,14 @@ _Apps:_
 *   Mail Server: [Fastmail](https://www.fastmail.com/?STKI=14726057)
 *   Mail App: Mail
 *   Calendar: Fantastical
-*   Notes: iA Writer / Apple Notes
+*   Notes: Devonthink / Apple Notes
 *   To-Do: Things
 *   Cloud File Storage: iCloud
 *   Browser: Safari / Firefox
-*   Text Editor: iA Writer / MarkEdit
+*   Text Editor: MarkEdit
 *   Code: GitHub
 *   Code Editor: Zed
-*   Journal: iA Writer / Day One
+*   Journal: Devonthink / Day One
 *   Launcher: Alfred
 *   RSS Service: Feedbin
 *   RSS App: NetNewsWire
@@ -52,12 +52,12 @@ _Apps:_
 *   Notes: iA Writer / Apple Notes
 *   To-Do: Things
 *   Browser: Safari
-*   Text: Drafts / iA Writer
+*   Text: Drafts / 1Writer
 *   RSS Service: Feedbin
 *   RSS App: NetNewsWire
 *   Bookmarks: Goodlinks
 *   Read It Later: Goodlinks
-*   Journal: iA Writer / Day One
+*   Journal: 1Writer / Day One
 *   Password Manager: Bitwarden
 *   Weather: Carrot Weather
 *   Health and Fitness: Fitness, FoodNom
