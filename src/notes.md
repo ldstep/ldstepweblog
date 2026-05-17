@@ -13,6 +13,18 @@ eleventyNavigation:
 
 ---
 
+May 17, 2026, at 4:52:31 PM
+
+I got interested in Bear again today. I really like the UI and how it handles long-term storage for my blog, journal, daily notes, and general notes. I can pair it with Drafts for capture, using a few simple actions to move things in cleanly.
+
+I have three Drafts actions that make this easy: Append Monthly Journal, Append Daily Note, and Send to Bear. It keeps the flow simple and lets each tool do what it's good at.
+
+This also means I'm moving away from Markdown files as the default system. If I need to, I can always export Markdown back out of Bear.
+
+Drafts remains my central hub for capture since I also have actions that send tasks into Todoist.
+ 
+---
+
 May 13, 2026, at 8:51:44 AM
 
 I'm contemplating migrating my task manager to the free version of Todoist. I'm [speculating](https://www.youtube.com/watch?v=RDVUFRUfYxs) that Things 4 may be released soon, and I'm hesitant to pay an upgrade fee for three devices or a subscription if they adopt that model. Additionally, Todoist currently offers more features. 
