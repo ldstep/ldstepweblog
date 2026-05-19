@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+May 19, 2026, at 4:13:35 PM
+
+I'm very pleased with my move to Todoist for tasks. My needs are very simple and the free version meets all my requirements. I haven't missed Things in the least. 
+
+---
+
 May 17, 2026, at 4:52:31 PM
 
 I got interested in Bear again today. I really like the UI and how it handles long-term storage for my blog, journal, daily notes, and general notes. I can pair it with Drafts for capture, using a few simple actions to move things in cleanly.
