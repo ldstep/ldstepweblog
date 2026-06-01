@@ -12,6 +12,13 @@ eleventyNavigation:
 *Notes are shorter random posts, kinda like a microblog. They have [their own RSS feed](https://ldstephens.net/notes-feed.xml).*
 
 ---
+June 1, 2026, at 9:26:27 AM
+
+I've been flip-flopping text editors so frequently lately that I'm not sure which one I'm actually using on any given day. Whichever one I use, there's always something about it that I don't like and can't change. A couple of days ago, I decided to add iA Writer to the mix again. This morning I wanted to change the line height and paragraph spacing. Well, guess what. There is no option to change it.
+
+Which brings me back to where I always end up: Drafts. That's where I am this morning.
+
+---
 
 May 19, 2026, at 4:13:35 PM
 
