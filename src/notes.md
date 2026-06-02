@@ -12,6 +12,12 @@ eleventyNavigation:
 *Notes are shorter random posts, kinda like a microblog. They have [their own RSS feed](https://ldstephens.net/notes-feed.xml).*
 
 ---
+
+June 2, 2026, at 5:46:50 PM
+
+The [migration](https://ldstephens.net/posts/why-i-moved-back-to-gmail-from-fastmail/) from Fastmail to Gmail is complete. Now the only email going to Fastmail consists of a few stragglers and some junk. Therefore, I set a rule in Fastmail to forward all mail to my Gmail. I followed Fastmail's support instructions, but it's not forwarding. I'll spend some time tomorrow to see if I can figure it out. 
+
+---
 June 1, 2026, at 9:26:27 AM
 
 I've been flip-flopping text editors so frequently lately that I'm not sure which one I'm actually using on any given day. Whichever one I use, there's always something about it that I don't like and can't change. A couple of days ago, I decided to add iA Writer to the mix again. This morning I wanted to change the line height and paragraph spacing. Well, guess what. There is no option to change it.

@@ -16,19 +16,17 @@
         </image>
 
         <item>
-            <title>June 1, 2026, at 9:26:27 AM</title>
+            <title>June 2, 2026, at 5:46:50 PM</title>
             <link>https://ldstephens.net/notes/</link>
             <guid
                 isPermaLink="false"
-            >https://ldstephens.net/notes/#2026-06-01T09:28:30</guid>
+            >https://ldstephens.net/notes/#2026-06-02T17:50:22</guid>
             <description>
             <![CDATA[
-            <p>I've been flip-flopping text editors so frequently lately that I'm not sure which one I'm actually using on any given day. Whichever one I use, there's always something about it that I don't like and can't change. A couple of days ago, I decided to add iA Writer to the mix again. This morning I wanted to change the line height and paragraph spacing. Well, guess what. There is no option to change it.</p>
-
-            <p>Which brings me back to where I always end up: Drafts. That's where I am this morning.</p>
+            <p>The <a href="https://ldstephens.net/posts/why-i-moved-back-to-gmail-from-fastmail/">migration</a> from Fastmail to Gmail is complete. Now the only email going to Fastmail consists of a few stragglers and some junk. Therefore, I set a rule in Fastmail to forward all mail to my Gmail. I followed Fastmail's support instructions, but it's not forwarding. I'll spend some time tomorrow to see if I can figure it out. </p>
             ]]>
              </description>
-            <pubDate>Mon, 01 Jun 2026 09:29:12 -0500</pubDate>
+            <pubDate>Tue, 02 Jun 2026 17:51:31 -0500</pubDate>
         </item>
     </channel>
 </rss>
