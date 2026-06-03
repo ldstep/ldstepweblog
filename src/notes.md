@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+June 3, 2026, at 10:53:37 AM
+
+I figured out why Fastmail forwarding appeared not to be working. I was sending the test email from the same account the forward was going to. Evidently, when you do that, it doesn't trigger a forward. I'm not getting a lot of email through Fastmail now, but I did get one this morning, and the forwarding worked as expected. 
+
+---
+
 June 2, 2026, at 5:46:50 PM
 
 The [migration](https://ldstephens.net/posts/why-i-moved-back-to-gmail-from-fastmail/) from Fastmail to Gmail is complete. Now the only email going to Fastmail consists of a few stragglers and some junk. Therefore, I set a rule in Fastmail to forward all mail to my Gmail. I followed Fastmail's support instructions, but it's not forwarding. I'll spend some time tomorrow to see if I can figure it out. 
