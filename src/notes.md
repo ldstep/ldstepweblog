@@ -13,6 +13,18 @@ eleventyNavigation:
 
 ---
 
+June 5, 2026, at 2:50:17 PM
+
+> Write to understand things, not to perform for attention; choose clarity and depth over noise and speed every time.
+> 
+> […] 
+> 
+> Don’t get distracted by numbers or metrics, focus instead on whether something you’ve written connects with someone, even if that connection is a quiet one.
+
+[Gordon McLean](https://www.gordonmclean.co.uk/2026/04/28/the-bloggers-manifesto/)
+
+---
+
 June 3, 2026, at 10:53:37 AM
 
 I figured out why Fastmail forwarding appeared not to be working. I was sending the test email from the same account the forward was going to. Evidently, when you do that, it doesn't trigger a forward. I'm not getting a lot of email through Fastmail now, but I did get one this morning, and the forwarding worked as expected. 

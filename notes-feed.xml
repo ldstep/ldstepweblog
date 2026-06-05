@@ -16,17 +16,22 @@
         </image>
 
         <item>
-            <title>June 3, 2026, at 10:53:37 AM</title>
+            <title>June 5, 2026, at 2:50:17 PM</title>
             <link>https://ldstephens.net/notes/</link>
             <guid
                 isPermaLink="false"
-            >https://ldstephens.net/notes/#2026-06-03T10:54:48</guid>
+            >https://ldstephens.net/notes/#2026-06-05T14:53:29</guid>
             <description>
             <![CDATA[
-            <p>I figured out why Fastmail forwarding appeared not to be working. I was sending the test email from the same account the forward was going to. Evidently, when you do that, it doesn't trigger a forward. I'm not getting a lot of email through Fastmail now, but I did get one this morning, and the forwarding worked as expected. </p>
+            <blockquote>
+            <p>Write to understand things, not to perform for attention; choose clarity and depth over noise and speed every time.</p>
+            <p>[…]</p>
+            <p>Don’t get distracted by numbers or metrics, focus instead on whether something you’ve written connects with someone, even if that connection is a quiet one.</p>
+            </blockquote>
+            <p><a href='https://www.gordonmclean.co.uk/2026/04/28/the-bloggers-manifesto/'>Gordon McLean</a></p>
             ]]>
              </description>
-            <pubDate>Wed, 03 Jun 2026 10:55:40 -0500</pubDate>
+            <pubDate>Fri, 05 Jun 2026 14:56:32 -0500</pubDate>
         </item>
     </channel>
 </rss>
