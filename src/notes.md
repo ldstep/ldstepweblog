@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+June 6, 2026, at 11:03:27 AM
+
+I'm experimenting with Google's [AI Edge Gallery](https://developers.google.com/edge/gallery) and [AI Edge Eloquent](https://developers.google.com/edge/eloquent) to assess their utility. Both are running on my iPhone for now.
+
+---
+
 June 5, 2026, at 2:50:17 PM
 
 > Write to understand things, not to perform for attention; choose clarity and depth over noise and speed every time.
