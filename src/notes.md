@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+June 9, 2026, at 10:10:27 AM
+
+A few bloggers I follow write about using Emacs. That makes me Emacs curious, but I've never taken the dive — although I have watched a few beginner videos. After watching, I come away thinking it's just too fucking confusing. Sure, it might be a good way to exercise my brain. But I don't see myself doing it.
+
+---
+
 June 6, 2026, at 11:03:27 AM
 
 I'm experimenting with Google's [AI Edge Gallery](https://developers.google.com/edge/gallery) and [AI Edge Eloquent](https://developers.google.com/edge/eloquent) to assess their utility. Both are running on my iPhone for now.
