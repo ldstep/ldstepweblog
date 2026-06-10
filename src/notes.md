@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+June 10, 2026, at 4:49:50 PM
+
+Didn't have much time for computing today. Did the yard work, which takes the better part of a day. Also made a trip to the recycling center with my next-door neighbor Stash to dump the remaining branches that broke off the trees from the last thunderstorm. And, it looks like we're in for another thunderstorm this evening. The thunderstorms we get are always preceded by a front with really strong winds, which is when we get the tree damage. Fingers crossed that we avoid any damage this evening.
+
+---
+
 June 9, 2026, at 10:10:27 AM
 
 A few bloggers I follow write about using Emacs. That makes me Emacs curious, but I've never taken the dive — although I have watched a few beginner videos. After watching, I come away thinking it's just too fucking confusing. Sure, it might be a good way to exercise my brain. But I don't see myself doing it.
