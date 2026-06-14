@@ -28,7 +28,7 @@ _Apps:_
 *   Code Editor: Zed
 *   Journal: Markdown Files / Day One
 *   Launcher: Alfred
-*   RSS Service: iCloud
+*   RSS Service: None
 *   RSS App: None
 *   Bookmarks: Alfred
 *   Read It Later: Goodlinks
@@ -54,7 +54,7 @@ _Apps:_
 *   Browser: Safari
 *   Text: Drafts / iA Writer
 *   RSS Service: On my iPhone
-*   RSS App: Reeder
+*   RSS App: Reeder Classic
 *   Bookmarks: Goodlinks
 *   Read It Later: Goodlinks
 *   Journal: iA Writer / Day One
