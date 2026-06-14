@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+June 14, 2026, at 5:17:31 PM
+
+This is a test of the Notes RSS feed. 
+
+---
+
 June 10, 2026, at 4:49:50 PM
 
 Didn't have much time for computing today. Did the yard work, which takes the better part of a day. Also made a trip to the recycling center with my next-door neighbor Stash to dump the remaining branches that broke off the trees from the last thunderstorm. And, it looks like we're in for another thunderstorm this evening. The thunderstorms we get are always preceded by a front with really strong winds, which is when we get the tree damage. Fingers crossed that we avoid any damage this evening.
