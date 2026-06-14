@@ -4,7 +4,7 @@ layout: layouts/page.njk
 
 ## Uses
 
-Updated: June 7, 2026, at 11:15:51 AM
+Updated: June 14, 2026, at 3:29:57 PM
 
 **Desktop: M4 14” Macbook Pro**
 
@@ -19,22 +19,22 @@ _Apps:_
 *   Mail Server: Gmail
 *   Mail App: Mail
 *   Calendar: Fantastical
-*   Notes: Devonthink / Apple Notes
+*   Notes: Markdown Files / Apple Notes
 *   To-Do: Todoist
 *   Cloud File Storage: iCloud
-*   Browser: Safari / Firefox
+*   Browser: Chrome / Safari
 *   Text Editor: Drafts / MarkEdit
 *   Code: GitHub
 *   Code Editor: Zed
-*   Journal: Devonthink / Day One
+*   Journal: Markdown Files / Day One
 *   Launcher: Alfred
 *   RSS Service: iCloud
-*   RSS App: NetNewsWire
+*   RSS App: None
 *   Bookmarks: Alfred
 *   Read It Later: Goodlinks
 *   Password Manager: Bitwarden
 *   VPN: TunnelBear
-*   Utilities: Hazel, Keyboard Maestro, PopClip, Yoink, DropZone, App Cleaner, Witch, ScreenFloat, HoudahSpot, Devonthink, Moom
+*   Utilities: Hazel, Keyboard Maestro, PopClip, Yoink, DropZone, App Cleaner, Witch, ScreenFloat, HoudahSpot, Moom
 
 **Mobile: iPhone 15 Pro Max and M2 11” iPad Air**
 
@@ -53,8 +53,8 @@ _Apps:_
 *   To-Do: Todoist
 *   Browser: Safari
 *   Text: Drafts / iA Writer
-*   RSS Service: iCloud
-*   RSS App: NetNewsWire
+*   RSS Service: On my iPhone
+*   RSS App: Reeder
 *   Bookmarks: Goodlinks
 *   Read It Later: Goodlinks
 *   Journal: iA Writer / Day One
