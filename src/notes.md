@@ -15,7 +15,7 @@ eleventyNavigation:
 
 June 15, 2026, at 4:18:56 PM
 
-This morning, I was wondering why I don't use BBEdit for more than managing this blog and working with scripts. I concluded that one of the reasons was the limited number of available themes; by default, there are none that I particularly like. Looking for something to do this morning, I asked Gemini if it could create BBEdit themes for me, and the answer was yes. So now I have Nord and Everforest dark themes. I plan to tweak them a little, but it's a good start.
+This morning, I was wondering why I don't use BBEdit for more than managing this blog and working with scripts. I concluded that one of the reasons is the limited number of available themes; by default, there are none that I particularly like. Looking for something to do this morning, I asked Gemini if it could create BBEdit themes for me, and the answer was yes. So now I have Nord and Everforest dark themes. I plan to tweak them a little, but it's a good start.
 
 ---
 
