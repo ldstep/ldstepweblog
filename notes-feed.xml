@@ -16,15 +16,19 @@
         </image>
 
         <item>
-            <title>June 15, 2026, at 4:18:56 PM</title>
+            <title>June 17, 2026, at 12:20:46 PM</title>
             <link>https://ldstephens.net/notes/</link>
-            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-06-15T16:20:57</guid>
+            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-06-17T12:28:40</guid>
             <description>
             <![CDATA[
-            <p>This morning, I was wondering why I don't use BBEdit for more than managing this blog and working with scripts. I concluded that one of the reasons was the limited number of available themes; by default, there are none that I particularly like. Looking for something to do this morning, I asked Gemini if it could create BBEdit themes for me, and the answer was yes. So now I have Nord and Everforest dark themes. I plan to tweak them a little, but it's a good start.</p>
+            <p>I installed <a href="https://developers.google.com/edge/gallery">Google AI Edge Gallery</a> on my iPhone. I'm not entirely sure how useful it'll be yet, but it works as expected.</p>
+            
+            <p>My experience on the MacBook Pro was a different story. It was a disappointment. Several features failed to work, and the app kept freezing, forcing me to force quit.</p>
+            
+            <p>I uninstalled it for now. I still love the idea of local AI, so I'll probably give it another shot down the road once it gets some updates.</p>
             ]]>
              </description>
-            <pubDate>Mon, 15 Jun 2026 16:22:39 -0500</pubDate>
+            <pubDate>Wed, 17 Jun 2026 12:29:34 -0500</pubDate>
         </item>
     </channel>
 </rss>

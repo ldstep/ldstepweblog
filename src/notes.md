@@ -13,6 +13,16 @@ eleventyNavigation:
 
 ---
 
+June 17, 2026, at 12:20:46 PM
+
+I installed [Google AI Edge Gallery](https://developers.google.com/edge/gallery) on my iPhone. I'm not entirely sure how useful it'll be yet, but it works as expected.
+
+My experience on the MacBook Pro was a different story. It was a disappointment. Several features failed to work, and the app kept freezing, forcing me to force quit.
+
+I uninstalled it for now. I still love the idea of local AI, so I'll probably give it another shot down the road once it gets some updates.
+
+---
+
 June 15, 2026, at 4:18:56 PM
 
 This morning, I was wondering why I don't use BBEdit for more than managing this blog and working with scripts. I concluded that one of the reasons is the limited number of available themes; by default, there are none that I particularly like. Looking for something to do this morning, I asked Gemini if it could create BBEdit themes for me, and the answer was yes. So now I have Nord and Everforest dark themes. I plan to tweak them a little, but it's a good start.
