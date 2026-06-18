@@ -13,6 +13,18 @@ eleventyNavigation:
 
 ---
 
+June 18, 2026, at 9:38:16 AM
+
+I'm writing this workflow down to commit to it. This sets it's in stone so I'll stop messing with it.
+
+Drafts is where I capture, write blog posts, journal entries, and notes. It's all temporary; nothing lives in the system long-term. Everything gets processed with an action and can be trashed.
+
+MarkEdit is where I work with markdown files. Marked 2 is my markdown viewer.
+
+BBEdit is my code editor where I manage my 11ty blog and write scripts.
+
+---
+
 June 17, 2026, at 12:20:46 PM
 
 I installed [Google AI Edge Gallery](https://developers.google.com/edge/gallery) on my iPhone. I'm not entirely sure how useful it'll be yet, but it works as expected.
