@@ -8,6 +8,6 @@ This blog is a static site built with [11ty](https://www.11ty.dev/), using [Nun
 
 The domain is registered through [Hover](https://hover.com/).
 
-When adding new posts, changing the design, or adding new features, that is done in [Zed](https://zed.dev).
+When adding new posts, changing the design, or adding new features, that is done in [BBEdit](https://www.barebones.com/products/bbedit/).
 
 New posts are written in Markdown in [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) and added to Zed.
