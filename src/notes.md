@@ -13,6 +13,18 @@ eleventyNavigation:
 
 ---
 
+June 20, 2026, at 9:14:51 AM
+
+> What I've started doing instead is to use DDG for simple queries that I can quickly and easily get the answer to. For anything more complex, I go to my LLM of choice (currently Gemini) and I ask the question there.
+> 
+> This is because it saves me a tonne of time sifting through all the SEO crap, and I can ask follow up questions too. Win/win.
+
+[Kev Quirk](https://kevquirk.com/search-is-broken)
+
+This is the exact method I use for searching. The only difference is that I use Google for simple queries and Gemini for everything else.
+
+---
+
 June 18, 2026, at 9:38:16 AM
 
 I'm writing this workflow down to commit to it. This sets it's in stone so I'll stop messing with it.

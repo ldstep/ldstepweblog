@@ -16,21 +16,23 @@
         </image>
 
         <item>
-            <title>June 18, 2026, at 9:38:16 AM</title>
+            <title>June 20, 2026, at 9:14:51 AM</title>
             <link>https://ldstephens.net/notes/</link>
-            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-06-18T09:41:19</guid>
+            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-06-20T09:21:16</guid>
             <description>
             <![CDATA[
-            <p>I'm writing this workflow down to commit to it. This sets it's in stone so I'll stop messing with it.</p>
+            <blockquote>
+				<p>What I've started doing instead is to use DDG for simple queries that I can quickly and easily get the answer to. For anything more complex, I go to my LLM of choice (currently Gemini) and I ask the question there.</p>
 
-			<p>Drafts is where I capture, write blog posts, journal entries, and notes. It's all temporary; nothing lives in the system long-term. Everything gets processed with an action and can be trashed.</p>
+				<p>This is because it saves me a tonne of time sifting through all the SEO crap, and I can ask follow up questions too. Win/win.</p>
+			</blockquote>
 
-			<p>MarkEdit is where I work with markdown files. Marked 2 is my markdown viewer.</p>
+				<p><a href="https://kevquirk.com/search-is-broken">Kev Quirk</a></p>
 
-			<p>BBEdit is my code editor where I manage my 11ty blog and write scripts.</p>
+				<p>This is the exact method I use for searching. The only difference is that I use Google for simple queries and Gemini for everything else.</p>
             ]]>
              </description>
-            <pubDate>Thu, 18 Jun 2026 09:42:24 -0500</pubDate>
+            <pubDate>Sat, 20 Jun 2026 09:22:43 -0500</pubDate>
         </item>
     </channel>
 </rss>
