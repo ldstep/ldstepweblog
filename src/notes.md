@@ -13,6 +13,16 @@ eleventyNavigation:
 
 ---
 
+June 23, 2026, at 11:23:36 AM
+
+I'm sick with some kind of bug, and it's raining, so I'm stuck inside today. Because of that, I decided to watch videos about Markdown editors on YouTube. That usually leads to me downloading and trying one of the mentioned apps.  
+
+But not today.  
+
+It only cemented my use of Drafts. 
+
+---
+
 June 20, 2026, at 9:14:51 AM
 
 > What I've started doing instead is to use DDG for simple queries that I can quickly and easily get the answer to. For anything more complex, I go to my LLM of choice (currently Gemini) and I ask the question there.
