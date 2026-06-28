@@ -13,6 +13,23 @@ eleventyNavigation:
 
 ---
 
+June 28, 2026, at 10:42:40 AM
+
+> Perhaps the most visible impact of the AI industry right now is that consumer electronics are getting more expensive. Price hikes are happening left and right and, while smartphones have been mostly spared so far, that no longer feels sustainable, and you can blame AI for it.
+
+I'm all set:
+
+- M4 MacBook Pro
+- iPhone 15 Pro Max
+- M2 iPad Air
+- Kindle Paperwhite
+
+I won't be buying any new hardware for the foreseeable future. 
+
+[Source](https://9to5google.com/2026/06/28/tech-price-hikes/)
+
+---
+
 June 23, 2026, at 11:23:36 AM
 
 I'm sick with some kind of bug, and it's raining, so I'm stuck inside today. Because of that, I decided to watch videos about Markdown editors on YouTube. That usually leads to me downloading and trying one of the mentioned apps.  
