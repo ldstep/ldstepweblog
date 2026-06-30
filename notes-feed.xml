@@ -16,30 +16,17 @@
         </image>
 
         <item>
-            <title>June 28, 2026, at 10:42:40 AM</title>
+            <title>June 30, 2026, at 11:01:54 AM</title>
             <link>https://ldstephens.net/notes/</link>
-            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-06-28T10:50:03</guid>
+            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-06-30T11:03:31</guid>
             <description>
             <![CDATA[
-            <blockquote>
-  				<p>Perhaps the most visible impact of the AI industry right now is that consumer electronics are getting more expensive. Price hikes are happening left and right and, while smartphones have been mostly spared so far, that no longer feels sustainable, and you can blame AI for it.</p>
-			</blockquote>
+            <p>Google just released Edge Gallery for Mac and iPhone, which got me looking into local LLMs: Edge Gallery, OpenAI Codex, and Claude Cowork. The only one I've actually installed is Edge Gallery on my iPhone, which is free to use. Cowork requires a paid account I don't have, and Codex works with free accounts but is limited. For my use case, I haven't seen a compelling reason to use a local model other than privacy.</p>
 
-				<p>I'm all set.</p>
-
-			<ul>	
-				<li>M4 MacBook Pro</li>
-				<li>iPhone 15 Pro Max</li>
-				<li>M2 iPad Air</li>
-				<li>Kindle Paperwhite</li>
-			</ul>
-
-				<p>I won't be buying any new hardware for the foreseeable future. </p>
-
-				<p><a href="https://9to5google.com/2026/06/28/tech-price-hikes/">Source</a></p>
+			<p>I've used Edge Gallery for a few conversations about medical questions; things I thought were better kept private. At this point, I think I'll stick with cloud models, with Edge Gallery as the exception.</p>
             ]]>
              </description>
-            <pubDate>Sun, 28 Jun 2026 10:54:48 -0500</pubDate>
+            <pubDate>Tue, 30 Jun 2026 11:04:43 -0500</pubDate>
         </item>
     </channel>
 </rss>

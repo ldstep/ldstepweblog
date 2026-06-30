@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+June 30, 2026, at 11:01:54 AM
+
+Google just released Edge Gallery for Mac and iPhone, which got me looking into local LLMs: Edge Gallery, OpenAI Codex, and Claude Cowork. The only one I've actually installed is Edge Gallery on my iPhone, which is free to use. Cowork requires a paid account I don't have, and Codex works with free accounts but is limited. For my use case, I haven't seen a compelling reason to use a local model other than privacy.
+
+I've used Edge Gallery for a few conversations about medical questions; things I thought were better kept private. At this point, I think I'll stick with cloud models, with Edge Gallery as the exception.
+
+---
+
 June 28, 2026, at 10:42:40 AM
 
 > Perhaps the most visible impact of the AI industry right now is that consumer electronics are getting more expensive. Price hikes are happening left and right and, while smartphones have been mostly spared so far, that no longer feels sustainable, and you can blame AI for it.
