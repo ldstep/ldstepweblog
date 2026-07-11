@@ -13,6 +13,18 @@ eleventyNavigation:
 
 ---
 
+July 11, 2026, at 9:49:42 AM
+
+[Maestral](https://github.com/samschott/maestral) the light-weight and open-source Dropbox client for macOS and Linux.
+
+> As of 2026-07-28, this project is archived. It's been a fun challenge to develop a syncing client, but unfortunately, I find too little time to invest in Maestral these days. I've also moved away from using Dropbox myself.
+> 
+> Maestral will still remain usable in the medium term, but will no longer be actively maintained or receive updates.
+
+Didn't use it all that much, but sorry to see it go. 
+ 
+---
+
 June 30, 2026, at 11:01:54 AM
 
 Google just released Edge Gallery for Mac and iPhone, which got me looking into local LLMs: Edge Gallery, OpenAI Codex, and Claude Cowork. The only one I've actually installed is Edge Gallery on my iPhone, which is free to use. Cowork requires a paid account I don't have, and Codex works with free accounts but is limited. For my use case, I haven't seen a compelling reason to use a local model other than privacy.
