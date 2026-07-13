@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+July 13, 2026, at 4:54:11 PM
+
+Back to Things. I find the overall experience of using Things much more fluid than Todoist.
+
+---
+
 July 11, 2026, at 9:49:42 AM
 
 [Maestral](https://github.com/samschott/maestral) the light-weight and open-source Dropbox client for macOS and Linux.

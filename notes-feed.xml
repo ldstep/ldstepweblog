@@ -16,23 +16,15 @@
         </image>
 
         <item>
-            <title>July 11, 2026, at 9:49:42 AM</title>
+            <title>July 13, 2026, at 4:54:11 PM</title>
             <link>https://ldstephens.net/notes/</link>
-            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-07-11T09:53:30</guid>
+            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-07-13T16:55:46</guid>
             <description>
             <![CDATA[
-            <p><a href="https://github.com/samschott/maestral">Maestral</a> the light-weight and open-source Dropbox client for macOS and Linux.</p>
-
-			<blockquote>
-			<p>As of 2026-07-28, this project is archived. It's been a fun challenge to develop a syncing client, but unfortunately, I find too little time to invest in Maestral these days. I've also moved away from using Dropbox myself.</p>
-
-			<p>Maestral will still remain usable in the medium term, but will no longer be actively maintained or receive updates.</p>
-			</blockquote>
-
-			<p>Didn't use it all that much, but sorry to see it go.</p>
+            <p>Back to Things. I find the overall experience of using Things much more fluid than Todoist.</p>
             ]]>
              </description>
-            <pubDate>Sat, 11 Jul 2026 09:59:12 -0500</pubDate>
+            <pubDate>Mon, 13 Jul 2026 16:56:33 -0500</pubDate>
         </item>
     </channel>
 </rss>
