@@ -4,7 +4,7 @@ layout: layouts/page.njk
 
 ## Uses
 
-Updated: June 23, 2026, at 11:30:22 AM
+Updated: July 20, 2026, at 9:59:07 AM
 
 **Desktop: M4 14” Macbook Pro**
 
@@ -19,14 +19,14 @@ _Apps:_
 *   Mail Server: Gmail
 *   Mail App: Mail
 *   Calendar: Fantastical
-*   Notes: Markdown Files / Apple Notes
-*   To-Do: Todoist
+*   Notes: Apple Notes
+*   To-Do: Things
 *   Cloud File Storage: iCloud
 *   Browser: Chrome / Safari
 *   Text Editor: Drafts
 *   Code: GitHub
 *   Code Editor: BBEdit
-*   Journal: Markdown Files / Day One
+*   Journal: Apple Notes / Day One
 *   Launcher: Alfred
 *   RSS Service: iCloud
 *   RSS App: NetNewsWire
@@ -49,15 +49,15 @@ _Apps:_
 *   Mail App: Mail
 *   Messages: Messages
 *   Calendar: Fantastical
-*   Notes: Markdown Files / Apple Notes
-*   To-Do: Todoist
+*   Notes: Apple Notes
+*   To-Do: Things
 *   Browser: Safari
 *   Text: Drafts
 *   RSS Service: iCloud
 *   RSS App: NetNewsWire
 *   Bookmarks: Goodlinks
 *   Read It Later: Goodlinks
-*   Journal: Markdown Files / Day One
+*   Journal: Apple Notes / Day One
 *   Password Manager: Bitwarden
 *   Weather: Carrot Weather
 *   Health and Fitness: Fitness, FoodNoms
