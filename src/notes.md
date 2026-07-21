@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+July 21, 2026, at 3:00:39 PM
+
+I get bored using Drafts and need a change once in a while. A lot of the time when that happens I'll switch to iA Writer until something ticks me off. Then I switch back to Drafts and delete iA Writer, convinced I'm done with it.
+
+Yesterday was one of those days. I was bored with Drafts and re-installed iA Writer, and I'm still using it today. Next time something bugs me about it, I should just put it away instead of uninstalling it. Sooner or later I'll want to use it again.
+
+---
+
 July 21, 2026, at 9:09:24 AM
 
 > CNBC’s Jim Cramer [says](https://www.cnbc.com/2026/07/20/jim-cramer-look-beyond-tech-ai-uncertainty.html) the AI trade has become too unpredictable, making this a better time to put new money into high-quality companies outside of technology.
