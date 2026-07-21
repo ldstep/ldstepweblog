@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+July 21, 2026, at 9:09:24 AM
+
+> CNBC’s Jim Cramer [says](https://www.cnbc.com/2026/07/20/jim-cramer-look-beyond-tech-ai-uncertainty.html) the AI trade has become too unpredictable, making this a better time to put new money into high-quality companies outside of technology.
+
+---
+
 July 13, 2026, at 4:54:11 PM
 
 Back to Things. I find the overall experience of using Things much more fluid than Todoist.
