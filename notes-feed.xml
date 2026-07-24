@@ -16,17 +16,21 @@
         </image>
 
         <item>
-            <title>July 21, 2026, at 3:00:39 PM</title>
+            <title>July 24, 2026, at 5:11:18 PM</title>
             <link>https://ldstephens.net/notes/</link>
-            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-07-21T15:05:56</guid>
+            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-07-24T17:12:54</guid>
             <description>
             <![CDATA[
-           <p>I get bored using Drafts and need a change once in a while. A lot of the time when that happens I'll switch to iA Writer until something ticks me off. Then I switch back to Drafts and delete iA Writer, convinced I'm done with it.</p>
+			<p>I spent part of the day testing <a href="https://www.macstories.net/reviews/open-minis-is-the-ios-agent-i-wish-siri-ai-could-be/">Open Minis</a> on my iPad with a Gemini API key. It was less about the app itself and more about figuring out where agentic interfaces and local models actually fit into my routine.</p>
 
-			<p>Yesterday was one of those days. I was bored with Drafts and re-installed iA Writer, and I'm still using it today. Next time something bugs me about it, I should just put it away instead of uninstalling it. Sooner or later I'll want to use it again.</p>
+			<p>Open Minis relies on system-level hooks for Apple Reminders, Calendar, and HealthKit, plus an Alpine Linux sandbox for local scripting and background browsing. But my daily workflow runs on single-purpose apps Things for tasks, Drafts for writing, Gmail and Google Calendar. System-level integrations lose their value when data lives elsewhere.</p>
+			
+			<p>That led back to a recurring conclusion about local LLMs. Running small open-weight models remains impractical.</p>
+			
+			<p>Gemini's Workspace extensions, tested directly in app, are a better fit pulling up upcoming haircut appointments, reading recent inbox notices, adding a quick afternoon reminder small logistical tasks handled without setup friction.</p>
             ]]>
              </description>
-            <pubDate>Tue, 21 Jul 2026 15:06:55 -0500</pubDate>
+            <pubDate>Fri, 24 Jul 2026 17:14:40 -0500</pubDate>
         </item>
     </channel>
 </rss>

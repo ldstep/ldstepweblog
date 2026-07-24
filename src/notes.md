@@ -13,6 +13,18 @@ eleventyNavigation:
 
 ---
 
+July 24, 2026, at 5:11:18 PM
+
+I spent part of the day testing [Open Minis](https://www.macstories.net/reviews/open-minis-is-the-ios-agent-i-wish-siri-ai-could-be/) on my iPad with a Gemini API key. It was less about the app itself and more about figuring out where agentic interfaces and local models actually fit into my routine.
+
+Open Minis relies on system-level hooks for Apple Reminders, Calendar, and HealthKit, plus an Alpine Linux sandbox for local scripting and background browsing. But my daily workflow runs on single-purpose apps Things for tasks, Drafts for writing, Gmail and Google Calendar. System-level integrations lose their value when data lives elsewhere.
+
+That led back to a recurring conclusion about local LLMs. Running small open-weight models remains impractical.
+
+Gemini's Workspace extensions, tested directly in app, are a better fit pulling up upcoming haircut appointments, reading recent inbox notices, adding a quick afternoon reminder small logistical tasks handled without setup friction.
+
+---
+
 July 21, 2026, at 3:00:39 PM
 
 I get bored using Drafts and need a change once in a while. A lot of the time when that happens I'll switch to iA Writer until something ticks me off. Then I switch back to Drafts and delete iA Writer, convinced I'm done with it.
