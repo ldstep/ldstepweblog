@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+July 29, 2026, at 5:34:15 PM
+
+A brief DNS mention on Mac Geek Gab 1152 got me checking my MacBook Pro's network settings. Sure enough, it was set to Verizon an oversight from when we switched ISPs over a year ago. I cleared it out and switched back to Cloudflare ‭1.1.1.1.
+
+---
+
 July 24, 2026, at 5:11:18 PM
 
 I spent part of the day testing [Open Minis](https://www.macstories.net/reviews/open-minis-is-the-ios-agent-i-wish-siri-ai-could-be/) on my iPad with a Gemini API key. It was less about the app itself and more about figuring out where agentic interfaces and local models actually fit into my routine.
