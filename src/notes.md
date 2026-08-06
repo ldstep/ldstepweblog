@@ -13,6 +13,16 @@ eleventyNavigation:
 
 ---
 
+August 6, 2026, at 4:41:58 PM
+
+> Microsoft researchers are urging travelers to assume that public and guest wireless networks at hotels, conference centers, and airports are untrustworthy. Whenever possible, users should rely on private connections, such as mobile hotspots and cellular data, instead of logging onto public wifi.
+
+This is good advice for everyone, not just travelers. 
+
+[Source](https://lifehacker.com/tech/heres-why-microsoft-is-encouraging-users-to-stay-off-public-wifi-networks)
+
+---
+
 July 29, 2026, at 5:34:15 PM
 
 A brief DNS mention on Mac Geek Gab 1152 got me checking my MacBook Pro's network settings. Sure enough, it was set to Verizon an oversight from when we switched ISPs over a year ago. I cleared it out and switched back to Cloudflare ‭1.1.1.1.
