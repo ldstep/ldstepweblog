@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+August 10, 2026, at 9:11:15 AM
+
+It's been a couple of weeks since I stopped using Drafts. I thought that I would miss it, but I haven't.
+
+---
+
 August 6, 2026, at 4:41:58 PM
 
 > Microsoft researchers are urging travelers to assume that public and guest wireless networks at hotels, conference centers, and airports are untrustworthy. Whenever possible, users should rely on private connections, such as mobile hotspots and cellular data, instead of logging onto public wifi.
