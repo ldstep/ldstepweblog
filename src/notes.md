@@ -13,6 +13,23 @@ eleventyNavigation:
 
 ---
 
+August 14, 2026, at 3:05:57 PM
+
+When I write notes entries for my site in MarkEdit, I have to manually update `notes-feed.xml`. The content block needs to be HTML, so I need to convert the Markdown I've written to HTML. Here's how I automated that:
+
+Converts the current MarkEdit document to HTML and copies it to the clipboard, using Marked 2 as the conversion engine.
+
+Flow:
+
+1. Activate MarkEdit and send ⌥⌘P to open the document's preview in Marked 2.
+2. Activate Marked 2 and send ⇧⌘C to copy the rendered HTML source.
+3. Send ⌘W to close the Marked 2 preview window.
+4. Activate MarkEdit and send ⌘V to paste the HTML back in.
+
+Built as a single AppleScript ("Execute AppleScript" action in Keyboard Maestro), using System Events keystroke calls.
+
+---
+
 August 14, 2026, at 11:49:03 AM
 
 RIP Claude
