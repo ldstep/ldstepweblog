@@ -13,6 +13,20 @@ eleventyNavigation:
 
 ---
 
+August 14, 2026, at 11:49:03 AM
+
+RIP Claude
+
+[Michael Lopp](https://randsinrepose.com/archives/rip-claude/)
+
+> When Anthropic announced they were going to do “text and image” watermarking, my eyebrow was raised. When humans I trusted began to analyze the announcement, both eyebrows went up. This morning, as I’ve done my own research, I’m furious.[…] This is what I am doing:[…] Researching migrating off Claude for all writing-related work. Stay tuned.[…] My writing is my work, and Anthropic’s current strategy is aggressively writer-hostile.
+
+[John Gruber](https://daringfireball.net/linked/2026/08/11/anthropic-claude-watermarks)
+
+> I have never been happier that I’ve never actually used Claude for anything.
+
+---
+
 August 10, 2026, at 9:11:15 AM
 
 It's been a couple of weeks since I stopped using Drafts. I thought that I would miss it, but I haven't.
