@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+August 17, 2026, at 9:50:26 AM
+
+I've been reading RSS in NetNewsWire rather than GoodLinks for the last several months. This morning I started using GoodLinks again and noticed something.
+
+When I read there, I tend to highlight things I want to think about later or maybe write about in my blog or journal. I don't seem to do that when I'm reading in NetNewsWire.
+
+---
+
 August 14, 2026, at 3:05:57 PM
 
 When I write notes entries for my site in MarkEdit, I have to manually update `notes-feed.xml`. The content block needs to be HTML, so I need to convert the Markdown I've written to HTML. Here's how I automated that:
