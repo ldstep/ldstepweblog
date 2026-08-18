@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+August 18, 2026, at 7:05:18 PM
+
+> That’s changing now, as Claude can now reply to an email, sending that email without your input and on your behalf. You still have to ask Claude to perform the action, but asking the AI to reply to an email can just send the response sight-unseen.[…] You get to pick whether or not Claude needs approval before hitting send on an email, but it’s a big step forward for what the assistant can do on your behalf in the context of Gmail.
+
+[9to5 Google](https://9to5google.com/2026/08/18/claude-can-now-send-emails-in-gmail-even-without-your-approval/)
+
+---
+
 August 17, 2026, at 9:50:26 AM
 
 I've been reading RSS in NetNewsWire rather than GoodLinks for the last several months. This morning I started using GoodLinks again and noticed something.
