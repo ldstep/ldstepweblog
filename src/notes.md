@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+August 19, 2026, at 4:12:09 PM
+
+I was thinking about version 2 of Raycast today and want to take it for a test drive. I've been testing it out now for a couple of hours, and it's vastly improved over version 1. 
+
+---
+
 August 19, 2026, at 9:36:44 AM
 
 I did something really stupid yesterday. I changed the trigger on a script from a hotkey to a string.
