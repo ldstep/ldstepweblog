@@ -16,19 +16,19 @@
         </image>
 
         <item>
-            <title>August 18, 2026, at 7:05:18 PM</title>
+            <title>August 19, 2026, at 9:36:44 AM</title>
             <link>https://ldstephens.net/notes/</link>
-            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-08-18T19:16:14</guid>
+            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-08-19T09:46:47</guid>
             <description>
             <![CDATA[
-			<blockquote>
-			<p>That’s changing now, as Claude can now reply to an email, sending that email without your input and on your behalf. You still have to ask Claude to perform the action, but asking the AI to reply to an email can just send the response sight-unseen.[…] You get to pick whether or not Claude needs approval before hitting send on an email, but it’s a big step forward for what the assistant can do on your behalf in the context of Gmail.</p>
-			</blockquote>
+			<p>I did something really stupid yesterday. I changed the trigger on a script from a hotkey to a string.</p>
+
+			<p>I realized today, when I tried to run a script that failed, that I had used that hotkey in the script I was trying to run.</p>
 			
-			<p><a href="https://9to5google.com/2026/08/18/claude-can-now-send-emails-in-gmail-even-without-your-approval/">9to5 Google</a></p>
+			<p>I added a hotkey trigger back to the script that I had changed to a string, and now the script that failed works.</p>
             ]]>
              </description>
-            <pubDate>Tue, 18 Aug 2026 19:17:27 -0500</pubDate>
+            <pubDate>Wed, 19 Aug 2026 09:47:42 -0500</pubDate>
         </item>
     </channel>
 </rss>

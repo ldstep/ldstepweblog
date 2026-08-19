@@ -13,6 +13,16 @@ eleventyNavigation:
 
 ---
 
+August 19, 2026, at 9:36:44 AM
+
+I did something really stupid yesterday. I changed the trigger on a script from a hotkey to a string.
+
+I realized today, when I tried to run a script that failed, that I had used that hotkey in the script I was trying to run.
+
+I added a hotkey trigger back to the script that I had changed to a string, and now the script that failed works.
+
+---
+
 August 18, 2026, at 7:05:18 PM
 
 > That’s changing now, as Claude can now reply to an email, sending that email without your input and on your behalf. You still have to ask Claude to perform the action, but asking the AI to reply to an email can just send the response sight-unseen.[…] You get to pick whether or not Claude needs approval before hitting send on an email, but it’s a big step forward for what the assistant can do on your behalf in the context of Gmail.
