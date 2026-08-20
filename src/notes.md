@@ -13,6 +13,16 @@ eleventyNavigation:
 
 ---
 
+August 20, 2026, at 8:48:24 AM
+
+I spent about 3 hours testing Raycast version 2 yesterday. 
+
+Here's what I found with version 2. First, it is dramatically improved over version 1. In my opinion, it isn't better than Alfred, but it's certainly equal to it now. I was able to replicate all but one thing I do in Alfred in Raycast, including my self-built workflows. Raycast has no equal to the Web Search > URLs History.
+
+I'm sticking with Alfred because I see no reason to switch, and I don't want to spend the time rebuilding my workflow in Raycast. But if I were new to launchers, I would definitely choose Raycast. I could replicate everything in Raycast using the free version where in Alfred it requires the Power Pack.
+
+---
+
 August 19, 2026, at 4:12:09 PM
 
 I was thinking about version 2 of Raycast today and want to take it for a test drive. I've been testing it out now for a couple of hours, and it's vastly improved over version 1. 
