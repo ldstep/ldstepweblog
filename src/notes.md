@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+August 21, 2026, at 3:36:33 PM
+
+This afternoon, I worked with ChatGPT to create simple Alfred search workflows for Things, Notes, and Devonthink. This allowed me to eliminate more complex workflows from the Alfred Workflow Gallery that offered many features I didn't need.
+
+---
+
 August 20, 2026, at 8:48:24 AM
 
 I spent about 3 hours testing Raycast version 2 yesterday. 
