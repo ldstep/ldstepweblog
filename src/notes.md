@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+August 29, 2026, at 4:47:21 PM
+
+I don't listen to a lot of music, but since cutting back on podcasts, I've had nothing to listen to some days while walking, so I've started listening to music.
+
+When I launch the Music app, it keeps offering me a 90-day free trial. I think that was an offer from when I bought my new MacBook Pro. So today, I clicked the button to subscribe to the 90-day free trial.
+
+---
+
 August 21, 2026, at 3:36:33 PM
 
 This afternoon, I worked with ChatGPT to create simple Alfred search workflows for Things, Notes, and Devonthink. This allowed me to eliminate more complex workflows from the Alfred Workflow Gallery that offered many features I didn't need.
