@@ -16,17 +16,25 @@
         </image>
 
         <item>
-            <title>August 29, 2026, at 4:47:21 PM</title>
+            <title>September 3, 2026, at 2:44:40 PM</title>
             <link>https://ldstephens.net/notes/</link>
-            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-08-29T16:57:33</guid>
+            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-09-03T14:45:32</guid>
             <description>
             <![CDATA[
-            <p>I don't listen to a lot of music, but since cutting back on podcasts, I've had nothing to listen to some days while walking, so I've started listening to music.</p>
+            <p>PopClip Tip: Hold Shift to Copy</p>
 
-            <p>When I launch the Music app, it keeps offering me a 90-day free trial. I think that was an offer from when I bought my new MacBook Pro. So today, I clicked the button to subscribe to the 90-day free trial.</p>
+            <blockquote>
+              <p>Here is a quick tip about something very useful that I don’t think many users know about.</p>
+
+            <p><em>Whenever you use an action that replaces text, you can always hold Shift to make PopClip copy that text instead.</em></p>
+
+            <p>This works for all actions and extensions including convert markdown to html extension. </p>
+            </blockquote>
+
+            <p><a href="https://forum.popclip.app/t/popclip-tip-hold-shift-to-copy/2719">Nick</a></p>
             ]]>
              </description>
-            <pubDate>Sat, 29 Aug 2026 15:58:08 -0500</pubDate>
+            <pubDate>Thu, 03 Sep 2026 13:46:19 -0500</pubDate>
         </item>
     </channel>
 </rss>

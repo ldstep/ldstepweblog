@@ -13,6 +13,20 @@ eleventyNavigation:
 
 ---
 
+September 3, 2026, at 2:44:40 PM
+
+PopClip Tip: Hold Shift to Copy
+
+> Here is a quick tip about something very useful that I don’t think many users know about.
+> 
+> *Whenever you use an action that replaces text, you can always hold Shift to make PopClip copy that text instead.*
+> 
+> This works for all actions and extensions including convert markdown to html extension. 
+
+[Nick](https://forum.popclip.app/t/popclip-tip-hold-shift-to-copy/2719)
+
+---
+
 August 29, 2026, at 4:47:21 PM
 
 I don't listen to a lot of music, but since cutting back on podcasts, I've had nothing to listen to some days while walking, so I've started listening to music.
