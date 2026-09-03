@@ -20,8 +20,8 @@ PopClip Tip: Hold Shift to Copy
 > Here is a quick tip about something very useful that I don’t think many users know about.
 > 
 > *Whenever you use an action that replaces text, you can always hold Shift to make PopClip copy that text instead.*
-> 
-> This works for all actions and extensions including convert markdown to html extension. 
+
+This works for all actions and extensions including convert markdown to html extension. 
 
 [Nick](https://forum.popclip.app/t/popclip-tip-hold-shift-to-copy/2719)
 
