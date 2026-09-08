@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+September 8, 2026, at 12:18:16 PM
+
+I have 54 shortcuts in the Shortcuts app on my iPhone, but I only use a handful of them. When I search for a shortcut in Spotlight, the results are cluttered with shortcuts I rarely use.
+
+To keep an unused shortcut out of Spotlight, long press it, select Details, and turn off Show in Search.
+
+---
+
 September 3, 2026, at 2:44:40 PM
 
 PopClip Tip: Hold Shift to Copy
