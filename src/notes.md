@@ -13,6 +13,28 @@ eleventyNavigation:
 
 ---
 
+September 12, 2026, at 2:53:26 PM
+
+Today I created a custom Published action for Dropzone 5 to simplify moving finished Markdown files into my Published folder.
+
+The action reads the first line of the markdown file and uses it as the filename, removing the markdown heading characters. It adds the current date to the beginning of the filename and preserves the `.md` extension. For example:
+
+```text
+# Brain Fart
+```
+
+becomes:
+
+```text
+2026-09-12_Brain Fart.md
+```
+
+The file is then moved automatically to my `iCloud Drive/Writing/Published` folder. The action also checks for an existing file with the same name so it won't accidentally overwrite something already published. I created the action using Dropzone's Develop Action and a Python script.
+
+Now I can drag a finished markdown file onto Published in Dropzone, and it is renamed and moved to the proper folder automatically.
+
+---
+
 September 8, 2026, at 12:18:16 PM
 
 I have 54 shortcuts in the Shortcuts app on my iPhone, but I only use a handful of them. When I search for a shortcut in Spotlight, the results are cluttered with shortcuts I rarely use.
