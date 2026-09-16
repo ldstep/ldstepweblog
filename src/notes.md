@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+September 16, 2026, at 1:34:27 PM
+
+Trying out Spotlight instead of Alfred, mostly because of how Siri AI is baked into it in macOS 27. Turns out I can do almost everything in Spotlight that I used to rely on Alfred for. My automations all live in Keyboard Maestro anyway, so no worries there. Early days still — we'll see how it goes.
+
+---
+
 September 12, 2026, at 2:53:26 PM
 
 Today I created a custom Published action for Dropzone 5 to simplify moving finished Markdown files into my Published folder.
