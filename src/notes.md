@@ -13,6 +13,18 @@ eleventyNavigation:
 
 ---
 
+September 19, 2026, at 9:33:50 AM
+
+I wonder if AI could eventually go rogue, get on the internet, and take control of it entirely?  
+
+[Researchers used Claude to hack OpenAI](https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/)  
+  
+> Anthropic said it shared the data to help the public “understand how close the world is to reaching recursive self-improvement,” the point at which AI can train and improve itself or new models.  
+>   
+> This threshold is at the heart of concerns that AI systems will become more difficult to oversee, leading to a loss of human control.  
+
+---
+
 September 16, 2026, at 1:34:27 PM
 
 Trying out Spotlight instead of Alfred, mostly because of how Siri AI is baked into it in macOS 27. Turns out I can do almost everything in Spotlight that I used to rely on Alfred for. My automations all live in Keyboard Maestro anyway, so no worries there. Early days still — we'll see how it goes.
