@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+September 30, 2026, at 10:07:31 AM
+
+> My rule now is that unless you're providing me with infrastructure, storage, or some other service that has ongoing costs for you, I'm not paying a subscription fee. An app that I download once and then just does what it does, all by itself, should not require a monthly payment from me.
+
+[Jack Baty](https://baty.net/journal/28Sep26/)
+
+---
+
 September 19, 2026, at 9:33:50 AM
 
 I wonder if AI could eventually go rogue, get on the internet, and take control of it entirely?  
