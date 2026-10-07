@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+October 7, 2026, at 9:35:20 AM
+
+I've been listening to podcasts with AI experts and reading a lot about AI safety. I don't think it will kill us. I think it's more likely to go rogue, we'll lose control, and the result will be a catastrophe that could cost lives.
+
+---
+
 September 30, 2026, at 10:07:31 AM
 
 > My rule now is that unless you're providing me with infrastructure, storage, or some other service that has ongoing costs for you, I'm not paying a subscription fee. An app that I download once and then just does what it does, all by itself, should not require a monthly payment from me.
