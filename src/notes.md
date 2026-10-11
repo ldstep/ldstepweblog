@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+October 11, 2026, at 4:14:26 PM
+
+This afternoon, I spent some time weighing Alfred Workflows against Keyboard Maestro for automations on my MacBook. I settled on Keyboard Maestro, it handles things Alfred can't.
+
+---
+
 October 7, 2026, at 9:35:20 AM
 
 I've been listening to podcasts with AI experts and reading a lot about AI safety. I don't think it will kill us. I think it's more likely to go rogue, we'll lose control, and the result will be a catastrophe that could cost lives.

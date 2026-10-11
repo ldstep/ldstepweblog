@@ -16,15 +16,15 @@
         </image>
 
         <item>
-            <title>October 7, 2026, at 9:35:20 AM</title>
+            <title>October 11, 2026, at 4:14:26 PM</title>
             <link>https://ldstephens.net/notes/</link>
-            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-10-07T09:37:16</guid>
+            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-10-11T16:15:49</guid>
             <description>
             <![CDATA[
-            <p>I've been listening to podcasts with AI experts and reading a lot about AI safety. I don't think it will kill us. I think it's more likely to go rogue, we'll lose control, and the result will be a catastrophe that could cost lives.</p>
+            <p>This afternoon, I spent some time weighing Alfred Workflows against Keyboard Maestro for automations on my MacBook. I settled on Keyboard Maestro, it handles things Alfred can't.</p>
             ]]>
              </description>
-            <pubDate>Wed, 07 Oct 2026 09:37:54 -0500</pubDate>
+            <pubDate>Sun, 11 Oct 2026 16:16:43 -0500</pubDate>
         </item>
     </channel>
 </rss>
