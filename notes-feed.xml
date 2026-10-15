@@ -16,15 +16,15 @@
         </image>
 
         <item>
-            <title>October 11, 2026, at 4:14:26 PM</title>
+            <title>October 15, 2026, at 3:58:51 PM</title>
             <link>https://ldstephens.net/notes/</link>
-            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-10-11T16:15:49</guid>
+            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-10-15T16:00:51</guid>
             <description>
             <![CDATA[
-            <p>This afternoon, I spent some time weighing Alfred Workflows against Keyboard Maestro for automations on my MacBook. I settled on Keyboard Maestro, it handles things Alfred can't.</p>
+            <p>Spent the afternoon cleaning up duplicates from moving my notes into Bear. Several notes were copied during the migration, so I had Claude compare each pair using the Bear MCP and move the duplicates to the trash, keeping the originals.</p>
             ]]>
              </description>
-            <pubDate>Sun, 11 Oct 2026 16:16:43 -0500</pubDate>
+            <pubDate>Thu, 15 Oct 2026 16:01:36 -0500</pubDate>
         </item>
     </channel>
 </rss>

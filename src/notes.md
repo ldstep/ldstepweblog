@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+October 15, 2026, at 3:58:51 PM
+
+Spent the afternoon cleaning up duplicates from moving my notes into Bear. Several notes were copied during the migration, so I had Claude compare each pair using the Bear MCP and move the duplicates to the trash, keeping the originals.
+
+---
+
 October 11, 2026, at 4:14:26 PM
 
 This afternoon, I spent some time weighing Alfred Workflows against Keyboard Maestro for automations on my MacBook. I settled on Keyboard Maestro, it handles things Alfred can't.
