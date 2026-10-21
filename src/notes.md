@@ -13,6 +13,17 @@ eleventyNavigation:
 
 ---
 
+October 21, 2026, at 4:53:28 PM
+
+**Node.js security update (Oct 21, 2026)**
+
+- Node.js released security patches for the 22.x, 24.x, and 26.x lines. Patched versions are 22.23.4, 24.22.1, and 26.12.1.
+- The fixes cover four high-severity issues: a Brotli decoder remote code execution bug, two TLS hostname-validation bypasses, and a `dns.resolve` bug. There are also several medium and low issues.
+- Risk to my blog is low. It's a static 11ty site, so Node only runs at build time and nothing on the live site depends on it.
+- I updated local Node from v22.14.0 to v22.23.4 using the nodejs.org installer, and `npm start` works.
+
+---
+
 October 15, 2026, at 3:58:51 PM
 
 Spent the afternoon cleaning up duplicates from moving my notes into Bear. Several notes were copied during the migration, so I had Claude compare each pair using the Bear MCP and move the duplicates to the trash, keeping the originals.

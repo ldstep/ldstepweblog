@@ -16,15 +16,22 @@
         </image>
 
         <item>
-            <title>October 15, 2026, at 3:58:51 PM</title>
+            <title>October 21, 2026, at 4:53:28 PM</title>
             <link>https://ldstephens.net/notes/</link>
-            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-10-15T16:00:51</guid>
+            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-10-21T16:57:04</guid>
             <description>
             <![CDATA[
-            <p>Spent the afternoon cleaning up duplicates from moving my notes into Bear. Several notes were copied during the migration, so I had Claude compare each pair using the Bear MCP and move the duplicates to the trash, keeping the originals.</p>
+            <p><strong>Node.js security update (Oct 21, 2026)</strong></p>
+
+            <ul>
+            <li>Node.js released security patches for the 22.x, 24.x, and 26.x lines. Patched versions are 22.23.4, 24.22.1, and 26.12.1.</li>
+            <li>The fixes cover four high-severity issues: a Brotli decoder remote code execution bug, two TLS hostname-validation bypasses, and a <code>dns.resolve</code> bug. There are also several medium and low issues.</li>
+            <li>Risk to my blog is low. It's a static 11ty site, so Node only runs at build time and nothing on the live site depends on it.</li>
+            <li>I updated local Node from v22.14.0 to v22.23.4 using the <a class="autolink" href="https://nodejs.org">nodejs.org</a> installer, and <code>npm start</code> works.</li>
+            </ul>
             ]]>
              </description>
-            <pubDate>Thu, 15 Oct 2026 16:01:36 -0500</pubDate>
+            <pubDate>Wed, 21 Oct 2026 16:58:41 -0500</pubDate>
         </item>
     </channel>
 </rss>
