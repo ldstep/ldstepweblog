@@ -13,6 +13,16 @@ eleventyNavigation:
 
 ---
 
+October 24, 2026, at 11:26:41 AM
+
+**The Safe Internet Is Shrinking**
+
+> Other advice I heard: Don’t host your own email client instead of Gmail. Don’t host your own file system at home instead of using the cloud. Google and Dropbox have the resources to defend against an onslaught of AI hacks, and you don’t.
+
+[Matteo Wong, The Atlantic](https://www.theatlantic.com/technology/2026/10/the-safe-internet-is-shrinking/689130/?lctg=66bc1282f352f26ce107bd7c)
+
+---
+
 October 21, 2026, at 4:53:28 PM
 
 **Node.js security update (Oct 21, 2026)**
