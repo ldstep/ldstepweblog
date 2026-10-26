@@ -13,6 +13,16 @@ eleventyNavigation:
 
 ---
 
+October 26, 2026, at 1:30:27 PM
+
+[Some iPhone Duo displays are cracking, seemingly all in the same way](https://9to5mac.com/2026/10/25/iphone-duo-displays-cracking/)
+
+> Following the iPhone Duo launch on Friday, a number of owners are reporting that their inner screens have cracked and broken on their own.
+
+Nothing says 'buy me' like a screen that cracks before you've had a chance to drop it.
+
+---
+
 October 24, 2026, at 11:26:41 AM
 
 **The Safe Internet Is Shrinking**
