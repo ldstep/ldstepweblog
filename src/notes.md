@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+November 3, 2026, at 9:41:59 AM
+
+Just discovered that Bear now has a [Beta web app](https://web.bear.app). It's not something that I would use, but it's great for those who access their notes, journal and writing on a platform other than Apple. 
+
+[Bear Web Public Beta – You are invited! – Bear](https://blog.bear.app/2025/07/bear-web-public-beta-you-are-invited/)
+
+---
+
 October 26, 2026, at 1:30:27 PM
 
 [Some iPhone Duo displays are cracking, seemingly all in the same way](https://9to5mac.com/2026/10/25/iphone-duo-displays-cracking/)
