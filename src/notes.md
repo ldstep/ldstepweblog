@@ -13,6 +13,12 @@ eleventyNavigation:
 
 ---
 
+November 6, 2026, at 4:25:44 PM
+
+I've been waiting for the iPad Mini with OLED display, and it's finally here. This morning, I traded in my M2 Air for one.
+
+---
+
 November 3, 2026, at 9:41:59 AM
 
 Just discovered that Bear now has a [Beta web app](https://web.bear.app). It's not something that I would use, but it's great for those who access their notes, journal and writing on a platform other than Apple. 
