@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+November 13, 2026, at 4:31:45 PM
+
+I’ve been testing the Gemini subscription, but today I canceled it and removed the app from my devices. I've realized I don’t need a paid AI subscription: the free tiers of ChatGPT and Claude meet my needs, and the Bear MCP server I’ve found so handy works with both.
+
+I also tried to get the Bear MCP server working in Gemini, with Gemini’s help. In the end, it gave up and admitted it wasn’t possible.
+
+---
+
 November 6, 2026, at 4:25:44 PM
 
 I've been waiting for the iPad Mini with OLED display, and it's finally here. This morning, I traded in my M2 Air for one.

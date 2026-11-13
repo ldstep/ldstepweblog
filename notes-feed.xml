@@ -16,15 +16,17 @@
         </image>
 
         <item>
-            <title>November 6, 2026, at 4:25:44 PM</title>
+            <title>November 13, 2026, at 4:31:45 PM</title>
             <link>https://ldstephens.net/notes/</link>
-            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-11-06T16:27:25</guid>
+            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-11-13T16:33:51</guid>
             <description>
             <![CDATA[
-            <p>I've been waiting for the iPad Mini with OLED display, and it's finally here. This morning, I traded in my M2 Air for one.</p>
+            <p>I’ve been testing the Gemini subscription, but today I canceled it and removed the app from my devices. I've realized I don’t need a paid AI subscription: the free tiers of ChatGPT and Claude meet my needs, and the Bear MCP server I’ve found so handy works with both.</p>
+
+			<p>I also tried to get the Bear MCP server working in Gemini, with Gemini’s help. In the end, it gave up and admitted it wasn’t possible.</p>
             ]]>
              </description>
-            <pubDate>Fri, 06 Nov 2026 16:28:48 -0500</pubDate>
+            <pubDate>Fri, 13 Nov 2026 16:35:05 -0500</pubDate>
         </item>
     </channel>
 </rss>
