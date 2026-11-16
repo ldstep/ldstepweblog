@@ -13,6 +13,14 @@ eleventyNavigation:
 
 ---
 
+November 16, 2026, at 2:01:28 PM
+
+This morning I needed to look up a PDF file and noticed that the default app for opening PDFs had been switched from Preview to Chrome. Apparently, when I installed Chrome a while back, it changed the default without my realizing it. What the fuck!
+
+I switched the default app back to Preview, but the PDF icons were still showing Chrome. With a little help from Claude, I was able to get the icons back to their proper appearance.
+
+---
+
 November 13, 2026, at 4:31:45 PM
 
 I’ve been testing the Gemini subscription, but today I canceled it and removed the app from my devices. I've realized I don’t need a paid AI subscription: the free tiers of ChatGPT and Claude meet my needs, and the Bear MCP server I’ve found so handy works with both.

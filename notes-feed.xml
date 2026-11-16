@@ -16,17 +16,16 @@
         </image>
 
         <item>
-            <title>November 13, 2026, at 4:31:45 PM</title>
+            <title>November 16, 2026, at 2:01:28 PM</title>
             <link>https://ldstephens.net/notes/</link>
-            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-11-13T16:33:51</guid>
+            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-11-16T14:03:09</guid>
             <description>
             <![CDATA[
-            <p>I’ve been testing the Gemini subscription, but today I canceled it and removed the app from my devices. I've realized I don’t need a paid AI subscription: the free tiers of ChatGPT and Claude meet my needs, and the Bear MCP server I’ve found so handy works with both.</p>
-
-			<p>I also tried to get the Bear MCP server working in Gemini, with Gemini’s help. In the end, it gave up and admitted it wasn’t possible.</p>
+            <p>This morning I needed to look up a PDF file and noticed that the default app for opening PDFs had been switched from Preview to Chrome. Apparently, when I installed Chrome a while back, it changed the default without my realizing it. What the fuck!</p>
+			<p>I switched the default app back to Preview, but the PDF icons were still showing Chrome. With a little help from Claude, I was able to get the icons back to their proper appearance.</p>
             ]]>
              </description>
-            <pubDate>Fri, 13 Nov 2026 16:35:05 -0500</pubDate>
+            <pubDate>Mon, 16 Nov 2026 14:03:59 -0500</pubDate>
         </item>
     </channel>
 </rss>
