@@ -13,6 +13,22 @@ eleventyNavigation:
 
 ---
 
+November 24, 2026, at 11:57:37 AM
+
+[Hello, Bear Web!](https://blog.bear.app/2026/11/hello-bear-web/)
+
+> Today, we’re happy to announce that Bear is now on the web!
+>
+> […]
+>
+> Bear Web is included with Bear Pro subscriptions that start on or after November 24, 2026. If you subscribed before then, you can [upgrade](https://blog.bear.app/2026/11/bear-web-is-almost-here-and-bear-pro-is-getting-a-new-price/) from the Bear Pro panel in the app.
+
+The Bear web app was officially released today. It comes with a new Pro plan that costs $39.99 per year. Existing Pro users like myself have to upgrade to the new plan to get access to the web app. Apple refunds the unused portion of the current subscription.
+
+I don't see a need for the web app, so I'll be sticking with my existing $29.99 per year plan.
+
+---
+
 November 16, 2026, at 2:01:28 PM
 
 This morning I needed to look up a PDF file and noticed that the default app for opening PDFs had been switched from Preview to Chrome. Apparently, when I installed Chrome a while back, it changed the default without my realizing it. What the fuck!

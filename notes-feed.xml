@@ -16,16 +16,22 @@
         </image>
 
         <item>
-            <title>November 16, 2026, at 2:01:28 PM</title>
+            <title>November 24, 2026, at 11:57:37 AM</title>
             <link>https://ldstephens.net/notes/</link>
-            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-11-16T14:03:09</guid>
+            <guid isPermaLink="false">https://ldstephens.net/notes/#2026-11-24T12:01:23</guid>
             <description>
             <![CDATA[
-            <p>This morning I needed to look up a PDF file and noticed that the default app for opening PDFs had been switched from Preview to Chrome. Apparently, when I installed Chrome a while back, it changed the default without my realizing it. What the fuck!</p>
-			<p>I switched the default app back to Preview, but the PDF icons were still showing Chrome. With a little help from Claude, I was able to get the icons back to their proper appearance.</p>
+            <p><a href='https://blog.bear.app/2026/11/hello-bear-web/'>Hello, Bear Web!</a></p>
+			<blockquote>
+			<p>Today, we’re happy to announce that Bear is now on the web!</p>
+			<p>[…]</p>
+			<p>Bear Web is included with Bear Pro subscriptions that start on or after November 24, 2026. If you subscribed before then, you can <a href='https://blog.bear.app/2026/11/bear-web-is-almost-here-and-bear-pro-is-getting-a-new-price/'>upgrade</a> from the Bear Pro panel in the app.</p>
+			</blockquote>
+			<p>The Bear web app was officially released today. It comes with a new Pro plan that costs $39.99 per year. Existing Pro users like myself have to upgrade to the new plan to get access to the web app. Apple refunds the unused portion of the current subscription.</p>
+			<p>I don't see a need for the web app, so I'll be sticking with my existing $29.99 per year plan.</p>
             ]]>
              </description>
-            <pubDate>Mon, 16 Nov 2026 14:03:59 -0500</pubDate>
+            <pubDate>Tue, 24 Nov 2026 12:03:05 -0500</pubDate>
         </item>
     </channel>
 </rss>
